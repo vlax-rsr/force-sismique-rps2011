@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Force sismique équivalente — RPS 2011</title>
+  <meta name="description" content="Calcul de la force sismique équivalente d'une structure selon la RPS 2011 (Règlement Parasismique Marocain).">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="vlax-rsr">
+  <link rel="canonical" href="https://vlax-rsr.github.io/force-sismique-rps2011/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Force sismique équivalente — RPS 2011">
+  <meta property="og:title" content="Force sismique équivalente — RPS 2011">
+  <meta property="og:description" content="Calcul de la force sismique équivalente d'une structure selon la RPS 2011 (Règlement Parasismique Marocain).">
+  <meta property="og:url" content="https://vlax-rsr.github.io/force-sismique-rps2011/">
+  <meta property="og:locale" content="fr_MA">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="css/site.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22><text y=%2226%22 font-size=%2226%22>🏗️</text></svg>">
+</head>
+<body>
+  <header class="entete">
+    <div class="entete-interne">
+      <a class="marque" href="index.html">
+        <span class="marque-titre">Force sismique équivalente</span>
+        <span class="marque-sous">RPS 2011</span>
+      </a>
+      <nav class="navigation">
+        <a href="index.html">Calcul</a>
+        <a href="methode.html">Méthode</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page">
+    <form id="formulaire" novalidate>
+      <section class="panneau localisation">
+        <h1 class="panneau-titre">Localiser le bâtiment par sa commune</h1>
+
+        <div class="recherche">
+          <label class="champ champ-recherche">
+            <span class="champ-label">Commune</span>
+            <input class="champ-saisie" type="search" id="commune" name="commune"
+                   value=""
+                   placeholder="Commencez à taper…"
+                   autocomplete="off" spellcheck="false">
+          </label>
+        </div>
+
+        <div id="suggestions" class="suggestions" hidden aria-live="polite"></div>
+
+        <div id="commune-retenue"></div>
+
+        <div class="grille-zones" id="zones">
+          <label class="champ">
+            <span class="champ-label">Zone d'accélération (Za)</span>
+            <select class="champ-saisie" id="za" name="za">
+              <option value="0" selected>0</option>
+              <option value="1" >1</option>
+              <option value="2" >2</option>
+              <option value="3" >3</option>
+              <option value="4" >4</option>
+            </select>
+          </label>
+          <label class="champ">
+            <span class="champ-label">Zone de vitesse (Zv)</span>
+            <select class="champ-saisie" id="zv" name="zv">
+              <option value="0" selected>0</option>
+              <option value="1" >1</option>
+              <option value="2" >2</option>
+              <option value="3" >3</option>
+              <option value="4" >4</option>
+            </select>
+          </label>
+        </div>
+        <p class="aide" id="aide-zones">Laissez la commune vide pour les choisir vous-même.</p>
+      </section>
+
+      <div class="disposition">
+        <section class="panneau">
+          <h2 class="panneau-titre">Données du bâtiment</h2>
+
+          <div id="bandeau"></div>
+
+          <fieldset>
+            <legend>Géométrie</legend>
+            <label class="champ">
+              <span class="champ-label">Hauteur H<span class="requis" title="Champ obligatoire">*</span></span>
+              <input class="champ-saisie" type="number" step="any" inputmode="decimal"
+                     id="hauteur" name="hauteur" value="">
+              <span class="champ-unite">m</span>
+            </label>
+            <label class="champ">
+              <span class="champ-label">Longueur Lx<span class="requis" title="Champ obligatoire">*</span></span>
+              <input class="champ-saisie" type="number" step="any" inputmode="decimal"
+                     id="longueur_x" name="longueur_x" value="">
+              <span class="champ-unite">m</span>
+            </label>
+            <label class="champ">
+              <span class="champ-label">Longueur Ly<span class="requis" title="Champ obligatoire">*</span></span>
+              <input class="champ-saisie" type="number" step="any" inputmode="decimal"
+                     id="longueur_y" name="longueur_y" value="">
+              <span class="champ-unite">m</span>
+            </label>
+          </fieldset>
+
+          <fieldset>
+            <legend>Structure</legend>
+            <label class="champ champ-large">
+              <span class="champ-label">Ossature</span>
+              <select class="champ-saisie" id="ossature" name="ossature">
+                <option value="Portique en béton armé" selected>Portique en béton armé</option>
+                <option value="Portique et voile en béton armé" >Portique et voile en béton armé</option>
+                <option value="Voile en béton armé" >Voile en béton armé</option>
+                <option value="Voiles couplés en béton armé" >Voiles couplés en béton armé</option>
+                <option value="Ossature en charpente en acier contreventée" >Ossature en charpente en acier contreventée</option>
+                <option value="Portique en charpente en acier à noeuds rigides" >Portique en charpente en acier à noeuds rigides</option>
+              </select>
+            </label>
+            <label class="champ">
+              <span class="champ-label">Classe de construction</span>
+              <select class="champ-saisie" id="classe" name="classe">
+                <option value="Classe I" selected>Classe I</option>
+                <option value="Classe II" >Classe II</option>
+                <option value="Classe III" >Classe III</option>
+              </select>
+            </label>
+            <label class="champ">
+              <span class="champ-label">Classe de site</span>
+              <select class="champ-saisie" id="classe_site" name="classe_site">
+                <option value="S1" selected>S1</option>
+                <option value="S2" >S2</option>
+                <option value="S3" >S3</option>
+                <option value="S4" >S4</option>
+                <option value="S5" >S5</option>
+              </select>
+            </label>
+            <label class="champ" id="bloc-coef-site">
+              <span class="champ-label">Coefficient S<span class="requis" title="Obligatoire pour le site S5">*</span></span>
+              <input class="champ-saisie" type="number" step="any" inputmode="decimal"
+                     id="coef_site" name="coef_site" value="1.0">
+              <span class="aide" id="aide-coef-site">Valeur forfaitaire du tableau 5.2</span>
+            </label>
+          </fieldset>
+
+          <fieldset>
+            <legend>Poids sismiques</legend>
+            <label class="champ">
+              <span class="champ-label">Wx<span class="requis" title="Champ obligatoire">*</span></span>
+              <input class="champ-saisie" type="number" step="any" inputmode="decimal"
+                     id="poids_x" name="poids_x" value="">
+            </label>
+            <label class="champ">
+              <span class="champ-label">Wy<span class="requis" title="Champ obligatoire">*</span></span>
+              <input class="champ-saisie" type="number" step="any" inputmode="decimal"
+                     id="poids_y" name="poids_y" value="">
+            </label>
+            <label class="champ">
+              <span class="champ-label">Unité</span>
+              <select class="champ-saisie" id="unite" name="unite">
+                <option value="kN" selected>kN</option>
+                <option value="daN" >daN</option>
+                <option value="kgf" >kgf</option>
+              </select>
+            </label>
+          </fieldset>
+
+          <div class="actions">
+            <button type="submit" class="bouton bouton-primaire">Calculer</button>
+            <a class="bouton" href="index.html">Réinitialiser</a>
+          </div>
+        </section>
+
+        <section class="panneau">
+          <h2 class="panneau-titre">Résultats</h2>
+          <div id="resultats">
+            <p class="vide">Aucun calcul pour l'instant. Renseignez les données du bâtiment,
+              puis cliquez sur <strong>Calculer</strong>.</p>
+          </div>
+        </section>
+      </div>
+    </form>
+  </main>
+
+  <footer class="pied">
+    <p>
+      Les résultats doivent être vérifiés par un bureau d'études, et la version de la
+      norme en vigueur sur le projet contrôlée avant tout dimensionnement.
+    </p>
+  </footer>
+  <script type="module" src="js/site.js"></script>
+</body>
+</html>

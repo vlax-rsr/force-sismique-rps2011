@@ -1,0 +1,4 @@
+# Le site est servi tel quel : les fins de ligne restent celles du dépôt, et non
+# celles du système qui l'a cloné. Sans cela, `core.autocrlf=true` — le défaut
+# sous Windows — réécrit chaque fichier au premier changement, pour rien.
+* text=auto eol=lf

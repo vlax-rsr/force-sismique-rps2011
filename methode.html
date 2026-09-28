@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Force sismique équivalente — RPS 2011</title>
+  <meta name="description" content="Calcul de la force sismique équivalente d'une structure selon la RPS 2011 (Règlement Parasismique Marocain).">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="vlax-rsr">
+  <link rel="canonical" href="https://vlax-rsr.github.io/force-sismique-rps2011/methode.html">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Force sismique équivalente — RPS 2011">
+  <meta property="og:title" content="Méthode de calcul — Force sismique équivalente (RPS 2011)">
+  <meta property="og:description" content="La formule F = υ.I.D.S.W/K et l'origine normative de chaque coefficient selon le Règlement Parasismique Marocain de 2011.">
+  <meta property="og:url" content="https://vlax-rsr.github.io/force-sismique-rps2011/methode.html">
+  <meta property="og:locale" content="fr_MA">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="css/site.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22><text y=%2226%22 font-size=%2226%22>🏗️</text></svg>">
+</head>
+<body>
+  <header class="entete">
+    <div class="entete-interne">
+      <a class="marque" href="index.html">
+        <span class="marque-titre">Force sismique équivalente</span>
+        <span class="marque-sous">RPS 2011</span>
+      </a>
+      <nav class="navigation">
+        <a href="index.html">Calcul</a>
+        <a href="methode.html">Méthode</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page">
+    <h1 class="titre-page">Méthode de calcul</h1>
+
+    <p class="explication">
+      La force sismique équivalente est obtenue par la méthode de la force statique
+      équivalente du Règlement Parasismique Marocain de 2011, dans les deux directions
+      du bâtiment :
+    </p>
+
+    <p class="formule">F = υ.I.D.S.W/K</p>
+
+    <table class="methode-table">
+      <caption>Signification des termes</caption>
+      <tbody>
+        <tr><td class="symbole">υ</td><td>Coefficient de vitesse</td></tr>
+        <tr><td class="symbole">I</td><td>Coefficient d'importance</td></tr>
+        <tr><td class="symbole">D</td><td>Facteur d'amplification</td></tr>
+        <tr><td class="symbole">S</td><td>Coefficient de site</td></tr>
+        <tr><td class="symbole">W</td><td>Poids sismique du bâtiment (donnée d'entrée)</td></tr>
+        <tr><td class="symbole">K</td><td>Facteur de comportement</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Origine normative de chaque valeur</h2>
+    <p class="explication">
+      Chaque valeur affichée conserve la table de la RPS 2011 dont elle est tirée, ainsi
+      que la formule qui l'a produite. La colonne « Source » de chaque tableau de résultats
+      reprend cette information.
+    </p>
+
+    <table class="methode-table">
+      <thead>
+        <tr><th>Symbole</th><th>Source</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="symbole">υ</td>
+          <td>RPS 2011 - Tableau 5.1</td>
+        </tr>
+        <tr>
+          <td class="symbole">I</td>
+          <td>RPS 2011 - Tableau 3.1</td>
+        </tr>
+        <tr>
+          <td class="symbole">S</td>
+          <td>RPS 2011 - Tableau 5.2</td>
+        </tr>
+        <tr>
+          <td class="symbole">D</td>
+          <td>RPS 2011 - Tableau 5.3</td>
+        </tr>
+        <tr>
+          <td class="symbole">ND</td>
+          <td>RPS 2011 - Tableau 3.2</td>
+        </tr>
+        <tr>
+          <td class="symbole">K</td>
+          <td>RPS 2011 - Tableau 3.3</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Coefficient de site</h2>
+    <p class="explication">
+      Les sites S1 à S4 ont une valeur forfaitaire. Le site <strong>S5</strong> n'en a pas :
+      la valeur doit être déterminée par une étude géotechnique et saisie manuellement.
+    </p>
+
+    <table class="methode-table">
+      <thead>
+        <tr><th>Classe de site</th><th class="col-valeur">S</th><th>Origine</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>S1</td>
+          <td class="valeur">1</td>
+          <td class="source">RPS 2011 - Tableau 5.2</td>
+        </tr>
+        <tr>
+          <td>S2</td>
+          <td class="valeur">1.2</td>
+          <td class="source">RPS 2011 - Tableau 5.2</td>
+        </tr>
+        <tr>
+          <td>S3</td>
+          <td class="valeur">1.4</td>
+          <td class="source">RPS 2011 - Tableau 5.2</td>
+        </tr>
+        <tr>
+          <td>S4</td>
+          <td class="valeur">1.8</td>
+          <td class="source">RPS 2011 - Tableau 5.2</td>
+        </tr>
+        <tr>
+          <td>S5</td>
+          <td class="valeur">à saisir</td>
+          <td class="source">Étude géotechnique</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Traçabilité</h2>
+    <p class="explication">
+      La page ne contient aucune formule : elle appelle le domaine de calcul
+      (<code>js/rps/</code>), dont chaque valeur est un paramètre renseignant sa formule,
+      son unité et sa table source. La note de calcul téléchargée est produite par ce
+      même domaine, et reste identique à celle du logiciel de bureau.
+    </p>
+  </main>
+
+  <footer class="pied">
+    <p>
+      Les résultats doivent être vérifiés par un bureau d'études, et la version de la
+      norme en vigueur sur le projet contrôlée avant tout dimensionnement.
+    </p>
+  </footer>
+</body>
+</html>

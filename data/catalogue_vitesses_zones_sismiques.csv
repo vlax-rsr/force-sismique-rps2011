@@ -1,0 +1,1512 @@
+﻿Province,Commune,Vitesse,Zone sism vitesse,Zone sism acceleration
+Ouad Eddahab,Bir anzarane,5,0,0
+Ouad Eddahab,Dakhla,5,0,1
+Ouad Eddahab,El argoub,5,0,0
+Ouad Eddahab,Gleibat el foula,5,0,0
+Ouad Eddahab,Imlili,5,0,0
+Ouad Eddahab,Mijik,5,0,0
+Ouad Eddahab,Oum dreyga,5,0,0
+Aousserd,Aghouinite,5,0,0
+Aousserd,Aousserd,5,0,0
+Aousserd,Bir gandouz,5,0,0
+Aousserd,Lagouira,0,0,1
+Aousserd,Tichla,5,0,0
+Aousserd,Zoug,5,0,0
+Assa-Zag,Al mahbass,5,0,0
+Assa-Zag,Aouint lahna,7,1,1
+Assa-Zag,Aouint yghomane,7,1,1
+Assa-Zag,Assa,5,0,0
+Assa-Zag,Labouirat,5,0,1
+Assa-Zag,Touizgui,5,0,0
+Assa-Zag,Zag,5,0,0
+Laayoune,Akhfennir,7,1,1
+Laayoune,Boukraa,5,0,0
+Laayoune,Daoura,5,0,1
+Laayoune,Dcheira,5,0,0
+Laayoune,El hagounia,5,0,1
+Laayoune,El marsa,5,0,1
+Laayoune,Foum el ouad,5,0,1
+Laayoune,Laayoune,5,0,0
+Laayoune,Tah,7,1,1
+Laayoune,Tarfaya,7,1,1
+Boujdour,Boujdour,5,0,1
+Boujdour,Gueltat Zemmour,5,0,0
+Boujdour,Jraifia,5,0,0
+Boujdour,Lamssid,5,0,0
+Essemara,Amgala,5,0,0
+Essemara,Essemara,5,0,0
+Essemara,Haouza,5,0,0
+Essemara,Jdiriya,5,0,0
+Essemara,Sidi Ahmed Laaroussi,5,0,0
+Essemara,Tifariti,5,0,0
+Guelmim,Abaynou,7,1,1
+Guelmim,Aday,7,1,1
+Guelmim,Aferkat,7,1,1
+Guelmim,Ait boufoulen,7,1,1
+Guelmim,Amtdi,7,1,1
+Guelmim,Asrir,7,1,1
+Guelmim,Bouizakarne,7,1,1
+Guelmim,Echatea el abied,7,1,1
+Guelmim,Fask,7,1,1
+Guelmim,Guelmim,7,1,1
+Guelmim,Ifrane atlas saghir,7,1,1
+Guelmim,Labyar,7,1,1
+Guelmim,Laqsabi tagoust,7,1,1
+Guelmim,Ras oumlil,7,1,1
+Guelmim,Tagante,7,1,1
+Guelmim,Taghjijt,5,0,1
+Guelmim,Taliouine assaka,7,1,2
+Guelmim,Targa wassay,7,1,2
+Guelmim,Tiglit,7,1,1
+Guelmim,Timoulay,7,1,1
+Tan-Tan,Abteh,7,1,1
+Tan-Tan,Ben Khlil,7,1,1
+Tan-Tan,Chbika,7,1,1
+Tan-Tan,El Ouatia,5,0,1
+Tan-Tan,Msied,7,1,1
+Tan-Tan,Tan-Tan,7,1,1
+Tan-Tan,Tilemzoun,7,1,1
+Tata,Adis,7,1,0
+Tata,Aguinane,10,2,2
+Tata,Ait ouabelli,5,0,0
+Tata,Akka,5,0,0
+Tata,Akka ighane,7,1,1
+Tata,Allougoum,7,1,1
+Tata,Fam el hisn,7,1,1
+Tata,Foumzguid,7,1,1
+Tata,Ibn yacoub,7,1,2
+Tata,Issafen,10,2,2
+Tata,Kasbat sidi abdallah ben m'barek,5,0,1
+Tata,Oum el guerdane,5,0,0
+Tata,Tagmout,7,1,2
+Tata,Tamanarte,5,0,0
+Tata,Tata,7,1,1
+Tata,Tigzmerte,7,1,1
+Tata,Tissint,5,0,1
+Tata,Tizaghte,7,1,1
+Tata,Tizounine,5,0,0
+Tata,Tlite,7,1,2
+Agadir Ida Ou Tanane,Agadir,13,3,4
+Agadir Ida Ou Tanane,Amskroud,13,3,4
+Agadir Ida Ou Tanane,Anza,13,3,4
+Agadir Ida Ou Tanane,Aourir,13,3,4
+Agadir Ida Ou Tanane,Aqesri,13,3,4
+Agadir Ida Ou Tanane,Aziar,10,2,3
+Agadir Ida Ou Tanane,Bensergao,13,3,4
+Agadir Ida Ou Tanane,Dcheira El Jihadia,13,3,3
+Agadir Ida Ou Tanane,Drargua,13,3,4
+Agadir Ida Ou Tanane,Idmine,13,3,4
+Agadir Ida Ou Tanane,Immouzzer,13,3,4
+Agadir Ida Ou Tanane,Imsouane,10,2,3
+Agadir Ida Ou Tanane,Tadrart,10,2,3
+Agadir Ida Ou Tanane,Taghazout,13,3,4
+Agadir Ida Ou Tanane,Tamri,13,3,3
+Agadir Ida Ou Tanane,Tiqqi,10,2,3
+Chtouka Ait Baha,Ait Amira,13,3,3
+Chtouka Ait Baha,Ait Baha,10,2,3
+Chtouka Ait Baha,Ait Milk,10,2,2
+Chtouka Ait Baha,Ait Mzal,10,2,3
+Chtouka Ait Baha,Ait Ouadrim,10,2,3
+Chtouka Ait Baha,Aouguenz,10,2,2
+Chtouka Ait Baha,Belfaa,13,3,2
+Chtouka Ait Baha,Biougra,13,3,3
+Chtouka Ait Baha,Hilala,10,2,3
+Chtouka Ait Baha,Ida Ou Gnidif,10,2,2
+Chtouka Ait Baha,Imi Mqourn,13,3,3
+Chtouka Ait Baha,Inchaden,13,3,3
+Chtouka Ait Baha,Massa,10,2,2
+Chtouka Ait Baha,Ouad Essafa,13,3,3
+Chtouka Ait Baha,Sidi Abdallah El Bouchouari,10,2,2
+Chtouka Ait Baha,Sidi Bibi,13,3,3
+Chtouka Ait Baha,Sidi Boushab,13,3,3
+Chtouka Ait Baha,Sidi Ouassay,13,3,3
+Chtouka Ait Baha,Tanalt,10,2,2
+Chtouka Ait Baha,Targa Ntouchka,10,2,2
+Chtouka Ait Baha,Tassegdelt,10,2,3
+Chtouka Ait Baha,Tizi Ntakoucht,10,2,3
+Inezgane Ait Melloul,Ait Melloul,13,3,3
+Inezgane Ait Melloul,Inezgane,13,3,3
+Inezgane Ait Melloul,Lgliaa,13,3,3
+Inezgane Ait Melloul,Oulad Dahou,13,3,3
+Inezgane Ait Melloul,Temsia,13,3,3
+Taroudannt,Adar,10,2,2
+Taroudannt,Agadir melloul,10,2,2
+Taroudannt,Ahl ramel,13,3,3
+Taroudannt,Ahl tifnoute,7,1,2
+Taroudannt,Ahmar laglalcha,10,2,3
+Taroudannt,Ait abdallah,10,2,2
+Taroudannt,Ait iaaza,10,2,3
+Taroudannt,Ait igas,10,2,3
+Taroudannt,Ait makhlouf,10,2,3
+Taroudannt,Amalou,10,2,3
+Taroudannt,Aoulouz,10,2,2
+Taroudannt,Arazane,10,2,2
+Taroudannt,Argana,10,2,3
+Taroudannt,Askaouen,7,1,2
+Taroudannt,Assads,10,2,3
+Taroudannt,Assaisse,7,1,2
+Taroudannt,Assaki,10,2,2
+Taroudannt,Azaghar n'irs,10,2,2
+Taroudannt,Azrar,10,2,2
+Taroudannt,Bigoudine,10,2,3
+Taroudannt,Bounrar,10,2,3
+Taroudannt,Eddir,13,3,3
+Taroudannt,El faid,10,2,2
+Taroudannt,El guerdane,10,2,3
+Taroudannt,El koudia el beida,13,3,3
+Taroudannt,Freija,10,2,3
+Taroudannt,Ida ou gailal,10,2,2
+Taroudannt,Ida ou moumen,10,2,3
+Taroudannt,Ida ougoummad,10,2,2
+Taroudannt,Igherm,10,2,2
+Taroudannt,Igli,10,2,2
+Taroudannt,Igoudar mnabha,10,2,2
+Taroudannt,Iguidi,7,1,2
+Taroudannt,Imaouen,10,2,2
+Taroudannt,Imi n'tayart,10,2,2
+Taroudannt,Imilmaiss,10,2,2
+Taroudannt,Imoulass,10,2,3
+Taroudannt,Issen,13,3,3
+Taroudannt,Lagfifat,13,3,3
+Taroudannt,Lakhnafif,10,2,3
+Taroudannt,Lamhadi,10,2,3
+Taroudannt,Lamhara,10,2,2
+Taroudannt,Lamnizla,10,2,3
+Taroudannt,Machraa el ain,10,2,3
+Taroudannt,Nihit,10,2,3
+Taroudannt,Oualqadi,10,2,3
+Taroudannt,Oulad aissa,10,2,2
+Taroudannt,Oulad berhil,10,2,2
+Taroudannt,Oulad teima,13,3,3
+Taroudannt,Ouneine,10,2,2
+Taroudannt,Ouzioua,7,1,2
+Taroudannt,Sidi abdallah ou said,10,2,2
+Taroudannt,Sidi ahmed ou abdellah,10,2,3
+Taroudannt,Sidi ahmed ou amar,13,3,3
+Taroudannt,Sidi boaal,10,2,2
+Taroudannt,Sidi borja,10,2,3
+Taroudannt,Sidi boumoussa,13,3,3
+Taroudannt,Sidi dahmane,10,2,3
+Taroudannt,Sidi hsaine,7,1,2
+Taroudannt,Sidi moussa lhamri,13,3,3
+Taroudannt,Sidi mzal,10,2,2
+Taroudannt,Sidi ouaaziz,10,2,2
+Taroudannt,Tabia,10,2,3
+Taroudannt,Tafingoult,10,2,2
+Taroudannt,Tafraouten,10,2,3
+Taroudannt,Talgjount,10,2,2
+Taroudannt,Taliouine,7,1,2
+Taroudannt,Talmakante,10,2,3
+Taroudannt,Tamaloukte,10,2,3
+Taroudannt,Taouyalte,7,1,2
+Taroudannt,Taroudannt,10,2,3
+Taroudannt,Tassousfi,10,2,2
+Taroudannt,Tataoute,10,2,3
+Taroudannt,Tazemmourt,10,2,3
+Taroudannt,Tidsi nissendalene,10,2,3
+Taroudannt,Tigouga,10,2,2
+Taroudannt,Tindine,10,2,3
+Taroudannt,Tinzart,10,2,2
+Taroudannt,Tiout,10,2,3
+Taroudannt,Tisfane,10,2,3
+Taroudannt,Tisrasse,10,2,2
+Taroudannt,Tizgazaouine,10,2,2
+Taroudannt,Tizi n'test,10,2,2
+Taroudannt,Toubkal,7,1,2
+Taroudannt,Toufelaazt,10,2,3
+Taroudannt,Toughmart,10,2,2
+Taroudannt,Toumliline,10,2,2
+Taroudannt,Zagmouzen,7,1,2
+Taroudannt,Zaouiat sidi tahar,10,2,3
+Tiznit,Afella ighir,7,1,1
+Tiznit,Ait erkha,7,1,1
+Tiznit,Ait issafen,7,1,2
+Tiznit,Ait ouafqa,7,1,1
+Tiznit,Ammelne,10,2,2
+Tiznit,Anfeg,7,1,1
+Tiznit,Anzi,10,2,2
+Tiznit,Arbaa ait abdallah,7,1,2
+Tiznit,Arbaa ait ahmed,10,2,2
+Tiznit,Arbaa rasmouka,10,2,2
+Tiznit,Arbaa sahel,10,2,2
+Tiznit,Bounaamane,7,1,2
+Tiznit,Boutrouch,7,1,1
+Tiznit,El maader el kabir,10,2,2
+Tiznit,Ibdar,7,1,1
+Tiznit,Ida ou gougmar,7,1,1
+Tiznit,Imi n'fast,7,1,2
+Tiznit,Irigh n'tahala,10,2,2
+Tiznit,Lakhsas,7,1,2
+Tiznit,Mesti,7,1,2
+Tiznit,Mirleft,7,1,2
+Tiznit,Ouijjane,10,2,2
+Tiznit,Reggada,7,1,2
+Tiznit,Sbouya,7,1,2
+Tiznit,Sebt ennabour,7,1,1
+Tiznit,Sidi abdallah ou belaid,7,1,1
+Tiznit,Sidi ahmed ou moussa,7,1,1
+Tiznit,Sidi bouabdelli,7,1,2
+Tiznit,Sidi h'saine ou ali,7,1,2
+Tiznit,Sidi ifni,7,1,2
+Tiznit,Sidi m'bark,7,1,2
+Tiznit,Tafraout,10,2,2
+Tiznit,Tafraout el mouloud,10,2,2
+Tiznit,Tangarfa,7,1,2
+Tiznit,Tarsouat,7,1,1
+Tiznit,Tassrirt,7,1,2
+Tiznit,Tighirt,7,1,1
+Tiznit,Tighmi,10,2,2
+Tiznit,Tioughza,7,1,2
+Tiznit,Tiznit,10,2,2
+Tiznit,Tizoughrane,10,2,1
+Tiznit,Tnine aday,10,2,2
+Tiznit,Tnine aglou,10,2,2
+Tiznit,Tnine amellou,7,1,2
+Ouarzazate,Ait el farsi,7,1,1
+Ouarzazate,Ait ouassif,7,1,2
+Ouarzazate,Ait sedrate jbel el oulia,7,1,2
+Ouarzazate,Ait sedrate jbel soufla,7,1,2
+Ouarzazate,Ait sedrate sahl charkia,7,1,2
+Ouarzazate,Ait sedrate sahl el gharbia,7,1,2
+Ouarzazate,Ait youl,7,1,2
+Ouarzazate,Ait zineb,7,1,2
+Ouarzazate,Amerzgane,7,1,2
+Ouarzazate,Aznaguen,10,2,2
+Ouarzazate,Boumalne dades,7,1,2
+Ouarzazate,Ghassate,7,1,2
+Ouarzazate,Idelsane,7,1,2
+Ouarzazate,Ighil n'oumgoun,7,1,2
+Ouarzazate,Ighrem n'ougdal,10,2,2
+Ouarzazate,Ikniouen,7,1,1
+Ouarzazate,Imi n'oulaoune,7,1,2
+Ouarzazate,Imider,7,1,2
+Ouarzazate,Kalaat m'gouna,7,1,2
+Ouarzazate,Khouzama,7,1,2
+Ouarzazate,M'semrir,7,1,2
+Ouarzazate,Ouaklim,7,1,2
+Ouarzazate,Ouarzazate,7,1,2
+Ouarzazate,Ouisselsate,7,1,2
+Ouarzazate,Siroua,7,1,2
+Ouarzazate,Skoura ahl el oust,7,1,2
+Ouarzazate,Souk lakhmiss dades,7,1,2
+Ouarzazate,Taghzoute n'ait atta,7,1,2
+Ouarzazate,Tarmigt,7,1,2
+Ouarzazate,Taznakht,7,1,2
+Ouarzazate,Telouet,10,2,2
+Ouarzazate,Tidli,7,1,2
+Ouarzazate,Tilmi,7,1,2
+Ouarzazate,Tinghir,7,1,2
+Ouarzazate,Toudgha el oulia,7,1,2
+Ouarzazate,Toudgha essoufla,7,1,2
+Ouarzazate,Toundoute,7,1,2
+Zagora,Afella N'dra,7,1,2
+Zagora,Afra,7,1,1
+Zagora,Agdz,7,1,2
+Zagora,Ait Boudaoud,7,1,1
+Zagora,Ait Ouallal,7,1,1
+Zagora,Bleida,7,1,1
+Zagora,Bni Zoli,7,1,1
+Zagora,Bouzeroual,7,1,1
+Zagora,Errouha,7,1,1
+Zagora,Fezouata,7,1,1
+Zagora,Ktaoua,5,0,1
+Zagora,Mezguita,7,1,2
+Zagora,M'hamid El Ghizlane,5,0,1
+Zagora,N'kob,7,1,1
+Zagora,Oulad Yahya Lagraire,7,1,1
+Zagora,Taftechna,7,1,1
+Zagora,Taghbalte,7,1,1
+Zagora,Tagounite,7,1,1
+Zagora,Tamegroute,7,1,1
+Zagora,Tamezmoute,7,1,1
+Zagora,Tansifte,7,1,2
+Zagora,Tazarine,7,1,1
+Zagora,Ternata,7,1,1
+Zagora,Tinzouline,7,1,1
+Zagora,Zagora,7,1,1
+Kenitra,Ameur Seflia,10,2,2
+Kenitra,Arbaoua,13,3,2
+Kenitra,Azghar,10,2,2
+Kenitra,Bahhara Oulad Ayad,13,3,2
+Kenitra,Ben Mansour,10,2,2
+Kenitra,Beni Malek,10,2,2
+Kenitra,Boumaiz,10,2,2
+Kenitra,Chouafaa,13,3,3
+Kenitra,Dar Bel Amri,10,2,2
+Kenitra,Haddada,10,2,2
+Kenitra,Kariat Ben Aouda,10,2,2
+Kenitra,Kceibya,10,2,2
+Kenitra,Kenitra Maamoura,10,2,2
+Kenitra,Kenitra Saknia,10,2,2
+Kenitra,Lalla Mimouna,13,3,2
+Kenitra,Mehdia,10,2,2
+Kenitra,Mnasra,10,2,2
+Kenitra,Mograne,10,2,2
+Kenitra,Moulay Bousselham,13,3,3
+Kenitra,Msaada,10,2,2
+Kenitra,Ouad El Makhazine,13,3,2
+Kenitra,Oulad Ben Hammadi,10,2,2
+Kenitra,Oulad H'cine,10,2,2
+Kenitra,Oulad Slama,10,2,2
+Kenitra,Sfafaa,10,2,2
+Kenitra,Sidi Allal Tazi,10,2,2
+Kenitra,Sidi Boubker El Haj,13,3,2
+Kenitra,Sidi Mohamed Lahmar,10,2,2
+Kenitra,Sidi Slimane,10,2,2
+Kenitra,Sidi Taibi,10,2,2
+Kenitra,Sidi Yahya El Gharb,10,2,2
+Kenitra,Souk Arbaa,10,2,2
+Kenitra,Souk Tlet El Gharb,10,2,2
+Sidi Kacem,Ain Dfali,10,2,2
+Sidi Kacem,Al Haouafate,10,2,2
+Sidi Kacem,Bab Tiouka,10,2,2
+Sidi Kacem,Bir Taleb,10,2,2
+Sidi Kacem,Bni Oual,10,2,2
+Sidi Kacem,Bni Qolla,10,2,2
+Sidi Kacem,Chbanate,10,2,2
+Sidi Kacem,Dar Gueddari,10,2,2
+Sidi Kacem,Dar Laaslouji,10,2,2
+Sidi Kacem,Ermilate,10,2,2
+Sidi Kacem,Had Kourt,10,2,2
+Sidi Kacem,Jorf El Melha,10,2,2
+Sidi Kacem,Khnichet,10,2,2
+Sidi Kacem,Lamjaara,10,2,2
+Sidi Kacem,Lamrabih,10,2,2
+Sidi Kacem,Masmouda,10,2,2
+Sidi Kacem,Mechraa Bel Ksiri,10,2,2
+Sidi Kacem,Moulay Abdelkader,10,2,2
+Sidi Kacem,Mzefroune,13,3,2
+Sidi Kacem,Nouirate,10,2,2
+Sidi Kacem,Ouezzane,13,3,2
+Sidi Kacem,Oulad Nouel,10,2,2
+Sidi Kacem,Ounnana,10,2,2
+Sidi Kacem,Sefsaf,10,2,2
+Sidi Kacem,Selfat,10,2,2
+Sidi Kacem,Sidi Ahmed Ben Aissa,10,2,2
+Sidi Kacem,Sidi Ahmed Cherif,10,2,2
+Sidi Kacem,Sidi Al Kamel,10,2,2
+Sidi Kacem,Sidi Ameur El Hadi,13,3,2
+Sidi Kacem,Sidi Azzouz,10,2,2
+Sidi Kacem,Sidi Bousber,10,2,2
+Sidi Kacem,Sidi Kacem,10,2,2
+Sidi Kacem,Sidi M'hamed Chelh,10,2,2
+Sidi Kacem,Sidi Redouane,10,2,2
+Sidi Kacem,Taoughilt,10,2,2
+Sidi Kacem,Tekna,10,2,2
+Sidi Kacem,Teroual,10,2,2
+Sidi Kacem,Zagotta,10,2,2
+Sidi Kacem,Zghira,10,2,2
+Sidi Kacem,Zirara,10,2,2
+Ben Slimane,Ahlaf,7,1,1
+Ben Slimane,Ain Tizgha,10,2,1
+Ben Slimane,Ben Slimane,10,2,1
+Ben Slimane,Bir Ennasr,7,1,1
+Ben Slimane,Bni Yakhlef,10,2,2
+Ben Slimane,Bouznika,10,2,2
+Ben Slimane,El Mansouria,10,2,2
+Ben Slimane,Fdalate,10,2,1
+Ben Slimane,Mellila,7,1,1
+Ben Slimane,Moualine El Ghaba,10,2,1
+Ben Slimane,Moualine El Ouad,10,2,1
+Ben Slimane,Oulad Ali Toualaa,7,1,1
+Ben Slimane,Oulad Yahya Louta,10,2,1
+Ben Slimane,Rdadna Oulad Malek,7,1,1
+Ben Slimane,Sidi Bettache,7,1,1
+Ben Slimane,Sidi Khdim,10,2,2
+Ben Slimane,Sidi Moussa Ben Ali,10,2,1
+Ben Slimane,Sidi Moussa El Majdoub,10,2,2
+Ben Slimane,Ziaida,7,1,1
+Khouribga,Ain Kaicher,10,2,2
+Khouribga,Ait Ammar,7,1,1
+Khouribga,Bejaad,10,2,2
+Khouribga,Bir Mezoui,7,1,1
+Khouribga,Bni Bataou,10,2,2
+Khouribga,Bni Smir,7,1,1
+Khouribga,Bni Ykhlef,7,1,1
+Khouribga,Bni Zrantel,10,2,2
+Khouribga,Boujniba,7,1,1
+Khouribga,Boukhrisse,10,2,2
+Khouribga,Boulanouare,7,1,1
+Khouribga,Braksa,7,1,1
+Khouribga,Chougrane,7,1,2
+Khouribga,El Foqra,7,1,1
+Khouribga,Hattane,7,1,1
+Khouribga,Kasbat Troch,7,1,1
+Khouribga,Khouribga,7,1,1
+Khouribga,Lagfaf,7,1,1
+Khouribga,Lagnadiz,7,1,1
+Khouribga,Maadna,7,1,1
+Khouribga,M'fassis,7,1,1
+Khouribga,Ouad Zem,7,1,1
+Khouribga,Oulad Abdoune,7,1,1
+Khouribga,Oulad Aissa,7,1,1
+Khouribga,Oulad Azzouz,7,1,1
+Khouribga,Oulad Boughadi,7,1,1
+Khouribga,Oulad Fennane,7,1,1
+Khouribga,Oulad Ftata,7,1,1
+Khouribga,Oulad Gouaouch,10,2,2
+Khouribga,Rouached,7,1,2
+Khouribga,Tachrafat,10,2,2
+Settat,Ain Blal,7,1,1
+Settat,Ain Dorbane,7,1,1
+Settat,Ain Nzagh,7,1,1
+Settat,Ben Ahmed,7,1,1
+Settat,Ben Maachou,10,2,2
+Settat,Berrechid,7,1,1
+Settat,Bni Khloug,7,1,1
+Settat,Bni Yagrine,7,1,1
+Settat,Bougargouh,7,1,1
+Settat,Dar Chaffai,7,1,1
+Settat,Deroua,10,2,1
+Settat,El Borouj,7,1,1
+Settat,El Gara,7,1,1
+Settat,Foqra Oulad Aameur,7,1,1
+Settat,Gdana,7,1,1
+Settat,Guisser,7,1,1
+Settat,Jaqma,7,1,1
+Settat,Kasbat Ben Mchich,10,2,1
+Settat,Khemisset Chaouia,7,1,1
+Settat,Laghnimyine,10,2,1
+Settat,Lahlaf M'zab,7,1,1
+Settat,Lahouaza,7,1,1
+Settat,Lahsasna,7,1,1
+Settat,Lakhiaita,10,2,2
+Settat,Lakhzazra,7,1,1
+Settat,Lambarkiyine,7,1,1
+Settat,Laqraqra,7,1,1
+Settat,Loulad,7,1,1
+Settat,Machraa Ben Abbou,7,1,1
+Settat,Meskoura,7,1,1
+Settat,M'garto,7,1,1
+Settat,Mniaa,7,1,1
+Settat,Mrizigue,7,1,1
+Settat,Mzoura,7,1,1
+Settat,N'khila,7,1,1
+Settat,Ouad Naanaa,7,1,1
+Settat,Oulad Aafif,7,1,1
+Settat,Oulad Abbou,10,2,1
+Settat,Oulad Amer,7,1,1
+Settat,Oulad Bouali Nouaja,7,1,1
+Settat,Oulad Cebbah,7,1,1
+Settat,Oulad Chbana,7,1,1
+Settat,Oulad Fares,7,1,1
+Settat,Oulad Fares El Halla,7,1,1
+Settat,Oulad Freiha,7,1,1
+Settat,Oulad M'hamed,7,1,1
+Settat,Oulad M'rah,7,1,1
+Settat,Oulad Said,7,1,1
+Settat,Oulad Sghir,7,1,1
+Settat,Oulad Zidane,7,1,1
+Settat,Ras El Ain Chaouia,7,1,1
+Settat,Riah,7,1,1
+Settat,Rima,7,1,1
+Settat,Sahel Oulad H'riz,10,2,2
+Settat,Settat,7,1,1
+Settat,Sgamna,7,1,1
+Settat,Sidi Abdelkhaleq,10,2,1
+Settat,Sidi Abdelkrim,7,1,1
+Settat,Sidi Ahmed El Khadir,7,1,1
+Settat,Sidi Boumehdi,7,1,1
+Settat,Sidi Dahbi,7,1,1
+Settat,Sidi El Aidi,7,1,1
+Settat,Sidi El Mekki,7,1,1
+Settat,Sidi Hajjaj,7,1,1
+Settat,Sidi Mohammed Ben Rahal,7,1,1
+Settat,Sidi Rahal Chatai,10,2,2
+Settat,Soualem,10,2,2
+Settat,Tamadroust,7,1,1
+Settat,Toualet,7,1,1
+Settat,Zaouiat Sidi Ben Hamdoun,7,1,1
+Al Haouz,Abadou,10,2,2
+Al Haouz,Aghbar,10,2,2
+Al Haouz,Ait Aadel,10,2,2
+Al Haouz,Ait Faska,10,2,2
+Al Haouz,Ait Hkim Ait Izid,10,2,2
+Al Haouz,Ait Ourir,10,2,2
+Al Haouz,Ait Sidi Daoud,10,2,2
+Al Haouz,Amghras,10,2,3
+Al Haouz,Amizmiz,10,2,3
+Al Haouz,Anougal,10,2,2
+Al Haouz,Asni,10,2,2
+Al Haouz,Azgour,10,2,2
+Al Haouz,Dar Jamaa,10,2,3
+Al Haouz,Ghmate,10,2,3
+Al Haouz,Ighil,10,2,2
+Al Haouz,Iguerferouane,10,2,2
+Al Haouz,Ijoukak,7,1,2
+Al Haouz,Imgdal,10,2,2
+Al Haouz,Lalla Takarkoust,10,2,3
+Al Haouz,Moulay Brahim,10,2,3
+Al Haouz,Ouazguita,10,2,3
+Al Haouz,Ouirgane,10,2,2
+Al Haouz,Oukaimden,10,2,2
+Al Haouz,Oulad Mtaa,10,2,3
+Al Haouz,Ourika,10,2,3
+Al Haouz,Sidi Abdallah Ghiat,10,2,3
+Al Haouz,Sidi Badhaj,10,2,3
+Al Haouz,Sti Fadma,10,2,2
+Al Haouz,Tahannaout,10,2,3
+Al Haouz,Talat N'yaaqoub,10,2,2
+Al Haouz,Tamaguert,10,2,2
+Al Haouz,Tamazouzte,10,2,3
+Al Haouz,Tameslohte,10,2,3
+Al Haouz,Tazart,10,2,2
+Al Haouz,Tidili Mesfioua,10,2,2
+Al Haouz,Tighedouine,10,2,2
+Al Haouz,Tizguine,10,2,3
+Al Haouz,Touama,10,2,2
+Al Haouz,Zerkten,10,2,2
+Chichaoua,Adassil,10,2,2
+Chichaoua,Afalla Issen,7,1,2
+Chichaoua,Ahdil,7,1,1
+Chichaoua,Ain Tazitounte,7,1,2
+Chichaoua,Ait Haddou Youssef,10,2,2
+Chichaoua,Ait Hadi,7,1,2
+Chichaoua,Assif El Mal,10,2,3
+Chichaoua,Bouabout,7,1,1
+Chichaoua,Bouabout Amdlane,7,1,2
+Chichaoua,Chichaoua,7,1,2
+Chichaoua,Douirane,7,1,2
+Chichaoua,Gmassa,10,2,3
+Chichaoua,Ichamraren,7,1,2
+Chichaoua,Imindounit,10,2,2
+Chichaoua,Imintanoute,7,1,2
+Chichaoua,Irohalen,7,1,2
+Chichaoua,Kouzemt,7,1,2
+Chichaoua,Lalla Aaziza,10,2,2
+Chichaoua,Lamzoudia,7,1,2
+Chichaoua,Majjat,7,1,2
+Chichaoua,M'zouda,7,1,2
+Chichaoua,Nfifa,7,1,2
+Chichaoua,Ouad Lbour,7,1,2
+Chichaoua,Oulad Moumna,7,1,1
+Chichaoua,Rahhala,7,1,1
+Chichaoua,Saidate,7,1,2
+Chichaoua,Sid L'mokhtar,7,1,1
+Chichaoua,Sidi Abdelmoumen,7,1,2
+Chichaoua,Sidi Bouzid Arragragui,7,1,2
+Chichaoua,Sidi Ghanem,7,1,2
+Chichaoua,Sidi M'hamed Dalil,7,1,2
+Chichaoua,Taouloukoult,7,1,2
+Chichaoua,Timezgadiouine,7,1,3
+Chichaoua,Timlilt,7,1,2
+Chichaoua,Zaouiat Annahlia,7,1,2
+El Kelaa Sraghna,Ait Hammou,7,1,1
+El Kelaa Sraghna,Ait Taleb,7,1,1
+El Kelaa Sraghna,Akarma,7,1,2
+El Kelaa Sraghna,Assahrij,10,2,2
+El Kelaa Sraghna,Ben Guerir,7,1,1
+El Kelaa Sraghna,Bouchane,7,1,1
+El Kelaa Sraghna,Bourrous,10,2,2
+El Kelaa Sraghna,Bouya Omar,10,2,2
+El Kelaa Sraghna,Choara,10,2,2
+El Kelaa Sraghna,Chtaiba,7,1,1
+El Kelaa Sraghna,Dzouz,10,2,2
+El Kelaa Sraghna,Eddachra,7,1,2
+El Kelaa Sraghna,El Aamria,7,1,1
+El Kelaa Sraghna,El Marbouh,7,1,1
+El Kelaa Sraghna,Errafiaya,7,1,1
+El Kelaa Sraghna,Fraita,10,2,2
+El Kelaa Sraghna,Hiadna,7,1,1
+El Kelaa Sraghna,Jaafra,7,1,1
+El Kelaa Sraghna,Jaidate,10,2,2
+El Kelaa Sraghna,Jbiel,7,1,2
+El Kelaa Sraghna,Jouala,10,2,2
+El Kelaa Sraghna,Kelaat Sraghna,7,1,2
+El Kelaa Sraghna,Laatamna,10,2,2
+El Kelaa Sraghna,Laataouia,10,2,2
+El Kelaa Sraghna,Laattaouia Echchaybia,10,2,2
+El Kelaa Sraghna,Labrikiyne,7,1,1
+El Kelaa Sraghna,Lamharra,7,1,1
+El Kelaa Sraghna,L'ouad Lakhdar,10,2,2
+El Kelaa Sraghna,Lounasda,7,1,1
+El Kelaa Sraghna,Mayate,7,1,1
+El Kelaa Sraghna,M'zem Sanhaja,10,2,2
+El Kelaa Sraghna,Nzalat Laadam,7,1,1
+El Kelaa Sraghna,Ouargui,10,2,2
+El Kelaa Sraghna,Oulad Aamer,10,2,2
+El Kelaa Sraghna,Oulad Aamer Tizmarine,7,1,1
+El Kelaa Sraghna,Oulad Aarrad,10,2,2
+El Kelaa Sraghna,Oulad Bouali L'ouad,10,2,2
+El Kelaa Sraghna,Oulad Cherki,7,1,1
+El Kelaa Sraghna,Oulad El Garne,7,1,1
+El Kelaa Sraghna,Oulad Hassoune Hamri,7,1,1
+El Kelaa Sraghna,Oulad Imloul,7,1,1
+El Kelaa Sraghna,Oulad Khallouf,10,2,2
+El Kelaa Sraghna,Oulad Massaoud,7,1,1
+El Kelaa Sraghna,Oulad Msabbel,7,1,1
+El Kelaa Sraghna,Oulad Sbih,7,1,1
+El Kelaa Sraghna,Oulad Yacoub,10,2,2
+El Kelaa Sraghna,Oulad Zarrad,7,1,1
+El Kelaa Sraghna,Ras Ain Rhamna,10,2,2
+El Kelaa Sraghna,Sidi Abdallah,7,1,1
+El Kelaa Sraghna,Sidi Aissa Ben Slimane,10,2,2
+El Kelaa Sraghna,Sidi Ali Labrahla,7,1,1
+El Kelaa Sraghna,Sidi Bou Othmane,7,1,2
+El Kelaa Sraghna,Sidi Boubker,7,1,2
+El Kelaa Sraghna,Sidi El Hattab,7,1,1
+El Kelaa Sraghna,Sidi Ghanem,7,1,1
+El Kelaa Sraghna,Sidi Mansour,7,1,1
+El Kelaa Sraghna,Sidi Moussa,7,1,1
+El Kelaa Sraghna,Sidi Rahhal,10,2,2
+El Kelaa Sraghna,Skhour Rhamna,7,1,1
+El Kelaa Sraghna,Skoura Lhadra,7,1,1
+El Kelaa Sraghna,Sour El Aaz,10,2,2
+El Kelaa Sraghna,Tamallalt,10,2,2
+El Kelaa Sraghna,Taouzint,7,1,2
+El Kelaa Sraghna,Tlauh,10,2,2
+El Kelaa Sraghna,Zemrane,10,2,2
+El Kelaa Sraghna,Zemrane Charqia,10,2,2
+El Kelaa Sraghna,Znada,7,1,2
+Essaouira,Adaghas,10,2,3
+Essaouira,Aglif,7,1,2
+Essaouira,Aguerd,10,2,2
+Essaouira,Ait Aissi Ihahane,10,2,3
+Essaouira,Ait Daoud,7,1,2
+Essaouira,Ait Said,10,2,2
+Essaouira,Aqermoud,10,2,2
+Essaouira,Assais,7,1,3
+Essaouira,Bizdad,7,1,1
+Essaouira,Bouzemmour,7,1,2
+Essaouira,El Hanchane,10,2,2
+Essaouira,Essaouira,10,2,2
+Essaouira,Ezzaouite,7,1,2
+Essaouira,Had Dra,10,2,2
+Essaouira,Ida Ou Aazza,10,2,2
+Essaouira,Ida Ou Guelloul,10,2,3
+Essaouira,Ida Ou Kazzou,10,2,3
+Essaouira,Imgrade,10,2,2
+Essaouira,Imi N'tlit,10,2,2
+Essaouira,Kechoula,7,1,1
+Essaouira,Korimate,7,1,1
+Essaouira,Lagdadra,10,2,2
+Essaouira,Lahsinate,10,2,2
+Essaouira,Mejji,7,1,1
+Essaouira,Meskala,7,1,1
+Essaouira,M'khalif,10,2,1
+Essaouira,Mouarid,7,1,1
+Essaouira,Moulay Bou Zarqtoune,10,2,2
+Essaouira,M'ramer,7,1,1
+Essaouira,Mzilate,7,1,1
+Essaouira,Oulad M'rabet,7,1,1
+Essaouira,Ounagha,10,2,2
+Essaouira,Sidi Abdeljalil,10,2,2
+Essaouira,Sidi Ahmed Essayeh,10,2,2
+Essaouira,Sidi Aissa Regragui,10,2,2
+Essaouira,Sidi Ali El Korati,10,2,2
+Essaouira,Sidi Boulaalam,7,1,1
+Essaouira,Sidi El Jazouli,10,2,2
+Essaouira,Sidi Ghaneme,7,1,2
+Essaouira,Sidi H'mad Ou Hamed,10,2,2
+Essaouira,Sidi H'mad Ou M'barek,10,2,3
+Essaouira,Sidi Ishaq,10,2,2
+Essaouira,Sidi Kaouki,10,2,2
+Essaouira,Sidi Laaroussi,7,1,1
+Essaouira,Sidi M'hamed Ou Marzouq,7,1,1
+Essaouira,Smimou,10,2,2
+Essaouira,Tafedna,10,2,2
+Essaouira,Tafetachte,7,1,1
+Essaouira,Tahelouante,7,1,2
+Essaouira,Takate,10,2,2
+Essaouira,Takoucht,7,1,2
+Essaouira,Talmest,10,2,2
+Essaouira,Tamanar,10,2,3
+Essaouira,Targante,10,2,2
+Essaouira,Tidzi,10,2,2
+Essaouira,Timizguida Ouftas,10,2,3
+Essaouira,Zaouiat Ben Hmida,10,2,2
+Marrakech-Medina,Marrakech Medina,10,2,3
+Marrakech-Menara,Agafay,10,2,3
+Marrakech-Menara,Ait Imour,10,2,3
+Marrakech-Menara,Loudaya,10,2,3
+Marrakech-Menara,Machouar Kasba,10,2,3
+Marrakech-Menara,Menara Gueliz,10,2,3
+Marrakech-Menara,Saada,10,2,3
+Marrakech-Menara,Sid Zouine,7,1,3
+Marrakech-Menara,Souihla,10,2,3
+Marrakech-Menara,Tassoultante,10,2,3
+Sidi Youssef-Ben Ali,Alouidane,10,2,3
+Sidi Youssef-Ben Ali,Annakhil,10,2,3
+Sidi Youssef-Ben Ali,Harbil,10,2,2
+Sidi Youssef-Ben Ali,M'nabha,7,1,1
+Sidi Youssef-Ben Ali,Ouahat Sidi Brahim,10,2,3
+Sidi Youssef-Ben Ali,Oulad Dlim,7,1,1
+Sidi Youssef-Ben Ali,Oulad Hassoune,10,2,3
+Sidi Youssef-Ben Ali,Sidi Youssef Ben Ali,10,2,3
+Berkane,Aghbal,13,3,2
+Berkane,Ahfir,13,3,2
+Berkane,Ain Erreggada,13,3,2
+Berkane,Aklim,13,3,3
+Berkane,Berkane,13,3,2
+Berkane,Boughriba,13,3,3
+Berkane,Chouihiya,13,3,3
+Berkane,Fezouane,13,3,2
+Berkane,Laatamna,13,3,3
+Berkane,Madagh,13,3,3
+Berkane,Rislane,13,3,2
+Berkane,Saidia,13,3,3
+Berkane,Sidi Bouhria,13,3,2
+Berkane,Sidi Slimane Echcherraa,13,3,2
+Berkane,Tafoughalt,13,3,2
+Berkane,Zegzel,13,3,2
+Figuig,Abbou Lakhal,5,0,1
+Figuig,Ain Chouater,5,0,1
+Figuig,Bni Guil,5,0,1
+Figuig,Bni Tadjite,7,1,2
+Figuig,Bouanane,7,1,1
+Figuig,Bouarfa,5,0,1
+Figuig,Bouchaouene,10,2,1
+Figuig,Boumerieme,10,2,2
+Figuig,Figuig,5,0,1
+Figuig,Maatarka,7,1,1
+Figuig,Talsint,7,1,2
+Figuig,Tendrara,7,1,1
+Jrada,Ain Bni Mathar,7,1,1
+Jrada,Bni Mthar,7,1,1
+Jrada,Gafait,10,2,2
+Jrada,Guenfouda,10,2,2
+Jrada,Jrada,10,2,2
+Jrada,Laaouinate,10,2,2
+Jrada,Lebkhata,10,2,2
+Jrada,Mrija,10,2,1
+Jrada,Oulad Ghziyel,10,2,1
+Jrada,Oulad Sidi Abdelhakem,7,1,1
+Jrada,Ras Asfoud,10,2,2
+Jrada,Sidi Boubker,10,2,2
+Jrada,Tiouli,10,2,2
+Jrada,Touissit,10,2,2
+Nador,Afsou,13,3,3
+Nador,Ain Zohra,13,3,3
+Nador,Ait Mait,17,4,4
+Nador,Al Aaroui,13,3,3
+Nador,Al Barkanyene,13,3,3
+Nador,Amejjaou,17,4,4
+Nador,Arekmane,13,3,3
+Nador,Azlaf,13,3,4
+Nador,Ben Taieb,17,4,4
+Nador,Bni Ansar,17,4,4
+Nador,Bni Bouifrour,17,4,3
+Nador,Bni Chiker,17,4,4
+Nador,Bni Marghnine,17,4,0
+Nador,Bni Oukil Ouled M'hand,13,3,3
+Nador,Bni Sidel Jbel,17,4,4
+Nador,Bni Sidel Louta,17,4,4
+Nador,Bouarg,17,4,3
+Nador,Boudinar,17,4,4
+Nador,Dar El Kebdani,17,4,4
+Nador,Driouch,13,3,3
+Nador,Farkhana,17,4,4
+Nador,Hassi Berkane,13,3,3
+Nador,Iaazzanene,17,4,4
+Nador,Iferni,17,4,4
+Nador,Ihaddadene,17,4,3
+Nador,Ijermaouas,17,4,4
+Nador,Iksane,13,3,3
+Nador,Mellilia,17,4,4
+Nador,M'hajer,17,4,4
+Nador,Midar,17,4,4
+Nador,Nador,17,4,3
+Nador,Ouardana,17,4,4
+Nador,Oulad Amghar,17,4,4
+Nador,Oulad Boubker,13,3,3
+Nador,Oulad Daoud Zkhanine,13,3,3
+Nador,Oulad Settout,13,3,3
+Nador,Ras El Ma,13,3,3
+Nador,Selouane,17,4,3
+Nador,Tafersit,17,4,4
+Nador,Talilit,17,4,4
+Nador,Tazaghine,17,4,4
+Nador,Temsamane,17,4,4
+Nador,Tiztoutine,13,3,3
+Nador,Trougout,17,4,4
+Nador,Tsaft,17,4,4
+Nador,Zaio,13,3,3
+Nador,Zeghanghane,17,4,3
+Oujda Angad,Ahl Angad,13,3,2
+Oujda Angad,Ain Sfa,13,3,2
+Oujda Angad,Bni Drar,13,3,2
+Oujda Angad,Bni Khaled,13,3,2
+Oujda Angad,Bsara,13,3,2
+Oujda Angad,Isly,10,2,2
+Oujda Angad,Mestferki,10,2,2
+Oujda Angad,Neima,10,2,2
+Oujda Angad,Ouad Ennachef Sidi Maafa,13,3,2
+Oujda Angad,Oujda Sidi Ziane,10,2,2
+Oujda Angad,Sidi Boulenouar,13,3,2
+Oujda Angad,Sidi Driss El Qadi,10,2,2
+Oujda Angad,Sidi Moussa Lemhaya,10,2,2
+Oujda Angad,Sidi Yahya,13,3,2
+Taourirt,Ahl Ouad Za,10,2,2
+Taourirt,Ain Lehjer,10,2,2
+Taourirt,Debdou,10,2,2
+Taourirt,El Aioun Sidi Mellouk,10,2,2
+Taourirt,El Atef,10,2,1
+Taourirt,Gteter,10,2,2
+Taourirt,Mechraa Hammadi,13,3,2
+Taourirt,Melg El Ouidane,10,2,3
+Taourirt,Mestegmer,10,2,2
+Taourirt,Oulad M'hammed,10,2,1
+Taourirt,Sidi Ali Belkassem,10,2,2
+Taourirt,Sidi Lahcen,10,2,2
+Taourirt,Tancherfi,10,2,2
+Taourirt,Taourirt,10,2,2
+Ain Chok Hay Hassani,Ain Chock,10,2,2
+Ain Chok Hay Hassani,Hay Hassani,10,2,2
+Ain Chok Hay Hassani,Lissasfa,10,2,2
+Ain Chok Hay Hassani,Sidi Maarouf,10,2,2
+Ain Chok Hay Hassani,Test,10,2,2
+Ain Chok Hay Hassani,Ain Sebaa-Hay Mohamma Ain Sebaa,10,2,2
+Ain Chok Hay Hassani,Ain Sebaa-Hay Mohamma,10,2,2
+Ain Chok Hay Hassani,Ain Sebaa-Hay Mohamma,10,2,2
+Ain Chok Hay Hassani,Ain Sebaa-Hay Mohamma Sidi Moumen,10,2,2
+Al Fida-Derb Sultan,Al Fida,10,2,2
+Al Fida-Derb Sultan,Al Idrissia,10,2,2
+Al Fida-Derb Sultan,Bou Chentouf,10,2,2
+Al Fida-Derb Sultan,Mers Sultan,10,2,2
+Ben Msick-Sidi Othman,Ben Msick,10,2,2
+Ben Msick-Sidi Othman,El Majjatia Oulad Taleb,10,2,2
+Ben Msick-Sidi Othman,Mediouna,10,2,2
+Ben Msick-Sidi Othman,Moulay Rachid,10,2,2
+Ben Msick-Sidi Othman,Salmia,10,2,2
+Ben Msick-Sidi Othman,Sbata,10,2,2
+Ben Msick-Sidi Othman,Sidi Othmane,10,2,2
+Casablanca-Anfa,Anfa,10,2,2
+Casablanca-Anfa,El Maarif,10,2,2
+Casablanca-Anfa,Moulay Youssef,10,2,2
+Casablanca-Anfa,Sidi Belyout,10,2,2
+Casablanca-Anfa,Machouar Casablanca Machouar Casablanca,10,2,2
+Nouaceur,Bouskoura,10,2,2
+Nouaceur,Dar Bouazza,10,2,2
+Nouaceur,Nouaceur,10,2,1
+Nouaceur,Oulad Salah,10,2,1
+Mohammedia,Mohammedia,10,2,2
+Sidi Bernoussi-Zenata,Ahl Laghlam,10,2,2
+Sidi Bernoussi-Zenata,Ain Harrouda,10,2,2
+Sidi Bernoussi-Zenata,Echchallalate,10,2,2
+Sidi Bernoussi-Zenata,Lahraouyine,10,2,2
+Sidi Bernoussi-Zenata,Sidi Bernoussi,10,2,2
+Sidi Bernoussi-Zenata,Sidi Hajjaj Ouad Hassar,10,2,1
+Sidi Bernoussi-Zenata,Tit Mellil,10,2,2
+Rabat,Agdal Riyad,10,2,2
+Rabat,El Youssoufia,10,2,2
+Rabat,Rabat Hassan,10,2,2
+Rabat,Touarga,10,2,2
+Rabat,Yacoub El Mansour,10,2,2
+Khemisset,Ain Johra,10,2,2
+Khemisset,Ain Sbit,7,1,1
+Khemisset,Ait Belkacem,10,2,1
+Khemisset,Ait Bouyahya El Hajjam,10,2,2
+Khemisset,Ait Ichou,7,1,1
+Khemisset,Ait Ikkou,10,2,2
+Khemisset,Ait Malek,10,2,2
+Khemisset,Ait Mimoune,10,2,2
+Khemisset,Ait Ouribel,10,2,2
+Khemisset,Ait Siberne,10,2,2
+Khemisset,Ait Yadine,10,2,2
+Khemisset,Bouqachmir,7,1,2
+Khemisset,Brachoua,7,1,1
+Khemisset,El Ganzra,10,2,2
+Khemisset,Ezzhiliga,7,1,1
+Khemisset,Houderrane,10,2,1
+Khemisset,Jemaat Moul Blad,7,1,1
+Khemisset,Khemiss Sidi Yahya,10,2,1
+Khemisset,Khemisset,10,2,2
+Khemisset,Laghoualem,7,1,1
+Khemisset,Maaziz,10,2,1
+Khemisset,Majmaa Tolba,10,2,2
+Khemisset,Marchouch,7,1,1
+Khemisset,Moulay Driss Aghbal,10,2,1
+Khemisset,Mqam Tolba,10,2,2
+Khemisset,Oulmes,7,1,2
+Khemisset,Rommani,7,1,1
+Khemisset,Sfassif,10,2,2
+Khemisset,Sidi Abderrazak,10,2,2
+Khemisset,Sidi Allal El Bahraoui,10,2,2
+Khemisset,Sidi Allal Lamsadder,10,2,2
+Khemisset,Sidi Boukhalkhal,10,2,2
+Khemisset,Sidi El Ghandour,10,2,2
+Khemisset,Tiddas,7,1,1
+Khemisset,Tiflet,10,2,2
+Sale,Hssaine,10,2,2
+Sale,Sale Bab Lamrissa,10,2,2
+Sale,Sale Bettana,10,2,2
+Sale,Sale Laayayda,10,2,2
+Sale,Sale Tabriquet,10,2,2
+Sale,Shoul,10,2,2
+Sale,Sidi Bouknadel,10,2,2
+Skhirate-Temara,Ain Attig,10,2,2
+Skhirate-Temara,Ain El Aouda,10,2,1
+Skhirate-Temara,El Menzeh,10,2,2
+Skhirate-Temara,Harhoura,10,2,2
+Skhirate-Temara,Mers Elk Heir,10,2,2
+Skhirate-Temara,Oumazza,10,2,1
+Skhirate-Temara,Sabbah,10,2,2
+Skhirate-Temara,Sidi Yahya Zaer,10,2,1
+Skhirate-Temara,Skhirate,10,2,2
+Skhirate-Temara,Temara,10,2,2
+El Jadida,Azemmour,10,2,2
+El Jadida,Bni Hilal,10,2,1
+El Jadida,Bni Tsiriss,7,1,1
+El Jadida,Bouhmame,7,1,1
+El Jadida,Boulaouane,7,1,1
+El Jadida,Chaibate,10,2,2
+El Jadida,Chtouka,10,2,2
+El Jadida,El Jadida,10,2,2
+El Jadida,Haouzia,10,2,2
+El Jadida,Jabria,7,1,1
+El Jadida,Khmis Ksiba,7,1,1
+El Jadida,Koudiat Bni Dghough,7,1,1
+El Jadida,Kridid,7,1,1
+El Jadida,Laagagcha,10,2,1
+El Jadida,Laamria,7,1,1
+El Jadida,Laaounate,7,1,1
+El Jadida,Laatatra,7,1,1
+El Jadida,Laghdira,10,2,2
+El Jadida,Laghnadra,10,2,1
+El Jadida,Lamharza Essahel,10,2,2
+El Jadida,Lbir Jdid,10,2,2
+El Jadida,Lgharbia,10,2,2
+El Jadida,Lmechrek,10,2,1
+El Jadida,Loualidia,10,2,2
+El Jadida,Metrane,7,1,1
+El Jadida,Mettouh,10,2,1
+El Jadida,Mogress,10,2,2
+El Jadida,Moulay Abdellah,10,2,2
+El Jadida,M'tal,7,1,1
+El Jadida,Oulad Aissa,10,2,2
+El Jadida,Oulad Amrane,7,1,1
+El Jadida,Oulad Boussaken,7,1,1
+El Jadida,Oulad Frej,10,2,1
+El Jadida,Oulad Ghanem,10,2,2
+El Jadida,Oulad Hamdane,10,2,2
+El Jadida,Oulad Hcine,10,2,2
+El Jadida,Oulad Rahmoune,10,2,2
+El Jadida,Oulad Sbaita,10,2,2
+El Jadida,Oulad Si Bouhya,7,1,1
+El Jadida,Oulad Sidi Ali Ben Youssef,10,2,1
+El Jadida,Saniat Berguig,10,2,1
+El Jadida,Sebt Saiss,10,2,2
+El Jadida,Si Hsaien Ben Abderrahmane,10,2,2
+El Jadida,Sidi Abed,10,2,2
+El Jadida,Sidi Ali Ben Hamdouche,10,2,2
+El Jadida,Sidi Bennour,7,1,1
+El Jadida,Sidi M'hamed Akhdim,10,2,2
+El Jadida,Sidi Smail,10,2,2
+El Jadida,Tamda,7,1,1
+El Jadida,Zaouiat Lakouacem,10,2,1
+El Jadida,Zaouiat Saiss,10,2,2
+El Jadida,Zemamra,10,2,1
+Safi,Asfi Biyada,10,2,2
+Safi,Asfi Boudheb,10,2,2
+Safi,Asfi Zaouia,10,2,2
+Safi,Atiamim,7,1,1
+Safi,Atouabet,10,2,2
+Safi,Ayir,10,2,2
+Safi,Bouguedra,10,2,2
+Safi,Dar Si Aissa,10,2,2
+Safi,Echemmaia,7,1,1
+Safi,El Beddouza,10,2,2
+Safi,El Gantour,7,1,1
+Safi,El Ghiate,10,2,1
+Safi,El Gouraani,7,1,1
+Safi,Esbiaat,7,1,1
+Safi,Hrara,10,2,2
+Safi,Ighoud,7,1,1
+Safi,Jamaat Shaim,10,2,1
+Safi,Jdour,7,1,1
+Safi,Jnan Bouih,7,1,1
+Safi,Khatazakane,10,2,2
+Safi,Laamamra,7,1,1
+Safi,Labkhati,7,1,1
+Safi,Lahdar,10,2,1
+Safi,Lakhoualqa,7,1,1
+Safi,Lamaachate,10,2,2
+Safi,Lamrasla,7,1,1
+Safi,Lamsabih,7,1,1
+Safi,Moul El Bergui,10,2,2
+Safi,Nagga,7,1,1
+Safi,Oulad Salmane,10,2,2
+Safi,Ras El Ain,7,1,1
+Safi,Saadla,10,2,2
+Safi,Sebt Gzoula,10,2,2
+Safi,Sidi Aissa,10,2,1
+Safi,Sidi Chiker,7,1,1
+Safi,Sidi Ettiji,7,1,1
+Safi,Youssoufia,7,1,1
+Beni Mellal,Aghbala,10,2,2
+Beni Mellal,Ait Oum El Bekht,10,2,2
+Beni Mellal,Al Khalfia,10,2,2
+Beni Mellal,Beni Mellal,10,2,2
+Beni Mellal,Bni Chegdale,7,1,1
+Beni Mellal,Bni Oukil,7,1,1
+Beni Mellal,Boutferda,10,2,2
+Beni Mellal,Bradia,10,2,2
+Beni Mellal,Dar Ould Zidouh,10,2,2
+Beni Mellal,Dir El Ksiba,10,2,2
+Beni Mellal,El Ksiba,10,2,2
+Beni Mellal,Foum El Anceur,10,2,2
+Beni Mellal,Foum Oudi,10,2,2
+Beni Mellal,Fquih Ben Salah,10,2,2
+Beni Mellal,Guettaya,10,2,2
+Beni Mellal,Had Boumoussa,10,2,2
+Beni Mellal,Hel Merbaa,10,2,2
+Beni Mellal,Kasba Tadla,10,2,2
+Beni Mellal,Krifate,10,2,2
+Beni Mellal,Naour,10,2,2
+Beni Mellal,Oulad Ayad,10,2,2
+Beni Mellal,Oulad Bourahmoune,10,2,2
+Beni Mellal,Oulad Gnaou,10,2,2
+Beni Mellal,Oulad M'barek,10,2,2
+Beni Mellal,Oulad Nacer,10,2,2
+Beni Mellal,Oulad Said L'oulad,10,2,2
+Beni Mellal,Oulad Yaich,10,2,2
+Beni Mellal,Oulad Youssef,10,2,2
+Beni Mellal,Oulad Zmam,10,2,2
+Beni Mellal,Semguet,10,2,2
+Beni Mellal,Sidi Aissa Ben Ali,10,2,2
+Beni Mellal,Sidi Hammadi,10,2,2
+Beni Mellal,Sidi Jaber,10,2,2
+Beni Mellal,Souk Sebt Oulad Nemma,10,2,2
+Beni Mellal,Taghzirt,10,2,2
+Beni Mellal,Tanougha,10,2,2
+Beni Mellal,Tizi N'isly,10,2,2
+Beni Mellal,Zaouiat Cheikh,7,1,2
+Azilal,Afouraf,10,2,2
+Azilal,Agoudi N'lkhair,10,2,2
+Azilal,Ait Abbas,10,2,2
+Azilal,Ait Blal,10,2,2
+Azilal,Ait Bou Oulli,10,2,2
+Azilal,Ait Majden,10,2,2
+Azilal,Ait Mazigh,10,2,2
+Azilal,Ait M'hamed,10,2,2
+Azilal,Ait Ouaarda,10,2,2
+Azilal,Ait Oumdis,10,2,2
+Azilal,Ait Ouqabli,10,2,2
+Azilal,Ait Taguella,10,2,2
+Azilal,Ait Tamlil,10,2,2
+Azilal,Anergui,10,2,2
+Azilal,Anzou,10,2,2
+Azilal,Azilal,10,2,2
+Azilal,Bin El Ouidane,10,2,2
+Azilal,Bni Ayat,10,2,2
+Azilal,Bni Hassane,10,2,2
+Azilal,Bzou,10,2,2
+Azilal,Demnate,10,2,2
+Azilal,Foum Jemaa,10,2,2
+Azilal,Imlil,10,2,2
+Azilal,Isseksi,10,2,2
+Azilal,Moulay Aissa Ben Driss,10,2,2
+Azilal,Ouaouizaght,10,2,2
+Azilal,Ouaoula,10,2,2
+Azilal,Rfala,10,2,2
+Azilal,Sidi Boulkhalf,10,2,2
+Azilal,Sidi Yacoub,10,2,2
+Azilal,Tabant,10,2,2
+Azilal,Tabaroucht,10,2,2
+Azilal,Tabia,10,2,2
+Azilal,Tagleft,10,2,2
+Azilal,Tamda Noumercid,10,2,2
+Azilal,Tanant,10,2,2
+Azilal,Taounza,10,2,2
+Azilal,Tidili Fetouaka,10,2,2
+Azilal,Tiffert N'ait Hamza,10,2,2
+Azilal,Tifni,10,2,2
+Azilal,Tilougguite,10,2,2
+Azilal,Timoulilt,10,2,2
+Azilal,Tisqi,10,2,2
+Azilal,Zaouiat Ahansal,10,2,2
+Al Ismailia,Ain Jemaa,10,2,2
+Al Ismailia,Ain Karma,10,2,2
+Al Ismailia,Ain Orma,10,2,2
+Al Ismailia,Ait Ouallal,10,2,2
+Al Ismailia,Al Ismailia,10,2,2
+Al Ismailia,Al Machouar Stina,10,2,2
+Al Ismailia,Dar Oum Soltane,10,2,2
+Al Ismailia,Maknassat Azzaytoun,10,2,2
+Al Ismailia,Ouad Rommane,10,2,2
+Al Ismailia,Toulal,10,2,2
+El Hajeb,Agourai,10,2,2
+El Hajeb,Ain Taoujdate,10,2,2
+El Hajeb,Ait Boubidmane,10,2,2
+El Hajeb,Ait Bourzouine,10,2,2
+El Hajeb,Ait Harzv Allah,10,2,2
+El Hajeb,Ait Naamane,10,2,2
+El Hajeb,Ait Ouikhalfen,10,2,2
+El Hajeb,Ait Yaazem,10,2,2
+El Hajeb,Bitit,10,2,2
+El Hajeb,El Hajeb,10,2,2
+El Hajeb,Iqaddar,10,2,2
+El Hajeb,Jahjouh,10,2,2
+El Hajeb,Laqsir,10,2,2
+El Hajeb,Ras Ijerri,10,2,2
+El Hajeb,Sbaa Aiyoun,10,2,2
+El Hajeb,Tamchachate,10,2,2
+El Haje,Errachidia Aarab Sebbah Gheris,7,1,2
+El Haje,Errachidia Aarab Sebbah Ziz,5,0,2
+El Haje,Errachidia Aghbalou N'kerdous,7,1,2
+El Haje,Errachidia Ait Hani,7,1,2
+El Haje,Errachidia Ait Yahya,7,1,2
+El Haje,Errachidia Alnif,7,1,1
+El Haje,Errachidia Amellagou,7,1,2
+El Haje,Errachidia Amouguer,7,1,2
+El Haje,Errachidia Aoufous,7,1,2
+El Haje,Errachidia Arfoud,5,0,2
+El Haje,Errachidia Assoul,7,1,2
+El Haje,Errachidia Bni M'hamed Sijelmassa,5,0,1
+El Haje,Errachidia Bou Azmou,7,1,2
+El Haje,Errachidia Boudnib,7,1,2
+El Haje,Errachidia Chorfa M'daghra,7,1,2
+El Haje,Errachidia Ennzala,7,1,2
+El Haje,Errachidia Errachidia,7,1,2
+El Haje,Errachidia Errich,7,1,2
+El Haje,Errachidia Errissani,5,0,1
+El Haje,Errachidia Errteb,7,1,2
+El Haje,Errachidia Essfalat,5,0,1
+El Haje,Errachidia Essifa,7,1,1
+El Haje,Errachidia Ettaous,5,0,1
+El Haje,Errachidia Ferkla El Oulia,7,1,2
+El Haje,Errachidia Ferkla Essoufia,7,1,2
+El Haje,Errachidia Fezna,7,1,2
+El Haje,Errachidia Gheris El Ouloui,7,1,2
+El Haje,Errachidia Gheris Essoufli,7,1,2
+El Haje,Errachidia Goulmima,7,1,2
+El Haje,Errachidia Gourrama,7,1,2
+El Haje,Errachidia Guers Tiallaline,7,1,2
+El Haje,Errachidia Guir,7,1,2
+El Haje,Errachidia H'ssyia,7,1,1
+El Haje,Errachidia Imilchil,10,2,2
+El Haje,Errachidia Jorf,7,1,1
+El Haje,Errachidia Lkheng,7,1,2
+El Haje,Errachidia Melaab,7,1,2
+El Haje,Errachidia Moulay Ali Cherif,5,0,1
+El Haje,Errachidia M'ssici,5,0,1
+El Haje,Errachidia M'zizel,7,1,2
+El Haje,Errachidia Ouad Naam,7,1,2
+El Haje,Errachidia Outerbat,7,1,2
+El Haje,Errachidia Sidi Aayad,7,1,2
+El Haje,Errachidia Sidi Ali,5,0,1
+El Haje,Errachidia Tadighoust,7,1,2
+El Haje,Errachidia Tinejdad,7,1,2
+El Haje,Errachidia Zaouiat Sidi Hamza,7,1,2
+Ifrane,Ain Leuh,10,2,2
+Ifrane,Azrou,10,2,2
+Ifrane,Ben Smim,10,2,2
+Ifrane,Dayat Aoua,10,2,2
+Ifrane,Ifrane,10,2,2
+Ifrane,Ouad Ifrane,10,2,2
+Ifrane,Sidi El Makhfi,10,2,2
+Ifrane,Tigrigra,10,2,2
+Ifrane,Timahdite,10,2,2
+Ifrane,Tizguite,10,2,2
+Meknes-El Menzeh,Boufakrane,10,2,2
+Meknes-El Menzeh,Charqaoua,10,2,2
+Meknes-El Menzeh,Dkhissa,10,2,2
+Meknes-El Menzeh,Hamrya,10,2,2
+Meknes-El Menzeh,Karmet Ben Salem,10,2,2
+Meknes-El Menzeh,Majjate,10,2,2
+Meknes-El Menzeh,Mghassiyine,10,2,2
+Meknes-El Menzeh,Mhaya,10,2,2
+Meknes-El Menzeh,Moulay Idriss Zerhoun,10,2,2
+Meknes-El Menzeh,Nzalat Bni Amar,10,2,2
+Meknes-El Menzeh,Ouad Jdida,10,2,2
+Meknes-El Menzeh,Oualili,10,2,2
+Meknes-El Menzeh,Ouislane,10,2,2
+Meknes-El Menzeh,Sidi Abdallah Al Khatya,10,2,2
+Meknes-El Menzeh,Sidi Slimane Moul Alkifane,10,2,2
+Boulemane,Ait Bazza,10,2,2
+Boulemane,Ait El Mane,10,2,2
+Boulemane,Almis Marmoucha,10,2,2
+Boulemane,Boulemane,7,1,2
+Boulemane,El Mers,10,2,2
+Boulemane,El Orjane,10,2,2
+Boulemane,Enjil,10,2,2
+Boulemane,Ermila,10,2,2
+Boulemane,Fritissa,10,2,2
+Boulemane,Guigou,10,2,2
+Boulemane,Imouzzer Marmoucha,7,1,2
+Boulemane,Ksabi Moulouya,10,2,2
+Boulemane,Missour,7,1,2
+Boulemane,Ouizeght,10,2,2
+Boulemane,Oulad Ali Youssef,10,2,2
+Boulemane,Outat El Haj,10,2,1
+Boulemane,Serghina,10,2,2
+Boulemane,Sidi Boutayeb,10,2,2
+Boulemane,Skoura M'daz,10,2,2
+Boulemane,Talzemt,10,2,2
+Boulemane,Tissaf,10,2,1
+Fes El Jadid-Dar Dbib,Agdal,10,2,2
+Fes El Jadid-Dar Dbib,Machouar Fes El Jadid,10,2,2
+Fes El Jadid-Dar Dbib,Oulad Tayeb,10,2,2
+Fes El Jadid-Dar Dbib,Saiss,10,2,2
+Fes-Medina,Ain Bida,10,2,2
+Fes-Medina,Ain Kansara,10,2,2
+Fes-Medina,Fes Medina,10,2,2
+Fes-Medina,Sidi Harazem,10,2,2
+Sefrou,Adrej,10,2,2
+Sefrou,Aghbalou Aqorar,10,2,2
+Sefrou,Ahl Sidi Lahcen,10,2,2
+Sefrou,Ain Cheggag,10,2,2
+Sefrou,Ain Timguenai,10,2,2
+Sefrou,Ait Sebaa Lajrouf,10,2,2
+Sefrou,Azzaba,10,2,2
+Sefrou,Bhalil,10,2,2
+Sefrou,Bir Tam Tam,10,2,2
+Sefrou,Dar El Hamra,10,2,2
+Sefrou,El Menzel,10,2,2
+Sefrou,Ighzrane,10,2,2
+Sefrou,Imouzzer Kandar,10,2,2
+Sefrou,Kandar Sidi Khiar,10,2,2
+Sefrou,Laanoussar,10,2,2
+Sefrou,Mtarnagha,10,2,2
+Sefrou,Oulad Mkoudou,10,2,2
+Sefrou,Ras Tabouda,10,2,2
+Sefrou,Ribate El Kheir,10,2,2
+Sefrou,Sefrou,10,2,2
+Sefrou,Sidi Youssef Ben Ahmed,10,2,2
+Sefrou,Tafajight,10,2,2
+Sefrou,Tazouta,10,2,2
+Zouagha-Moulay Yacoub,Ain Bou Ali,10,2,2
+Zouagha-Moulay Yacoub,Ain Chkef,10,2,2
+Zouagha-Moulay Yacoub,Laajajra,10,2,2
+Zouagha-Moulay Yacoub,Louadaine,10,2,2
+Zouagha-Moulay Yacoub,Mikkes,10,2,2
+Zouagha-Moulay Yacoub,Moulay Yacoub,10,2,2
+Zouagha-Moulay Yacoub,Oulad Mimoun,10,2,2
+Zouagha-Moulay Yacoub,Sebaa Rouadi,10,2,2
+Zouagha-Moulay Yacoub,Sebt Loudaya,10,2,2
+Zouagha-Moulay Yacoub,Sidi Daoud,10,2,2
+Zouagha-Moulay Yacoub,Zouagha,10,2,2
+Al Hoceima,Abdelghaya Souahel,13,3,4
+Al Hoceima,Ait Kamra,17,4,4
+Al Hoceima,Ait Youssef Ouali,17,4,4
+Al Hoceima,Al Hoceima,17,4,4
+Al Hoceima,Arbaa Taourirt,13,3,4
+Al Hoceima,Bni Abdallah,17,4,4
+Al Hoceima,Bni Ahmed Imoukzan,13,3,4
+Al Hoceima,Bni Ammart,13,3,4
+Al Hoceima,Bni Bchir,13,3,4
+Al Hoceima,Bni Bouayach,17,4,4
+Al Hoceima,Bni Bouchibet,13,3,4
+Al Hoceima,Bni Boufrah,17,4,4
+Al Hoceima,Bni Bounsar,13,3,4
+Al Hoceima,Bni Gmil,17,4,4
+Al Hoceima,Bni Gmil Maksouline,17,4,4
+Al Hoceima,Bni Hafida,17,4,4
+Al Hoceima,Chakrane,17,4,4
+Al Hoceima,Imrabten,17,4,4
+Al Hoceima,Imzouren,17,4,4
+Al Hoceima,Issaguen,13,3,4
+Al Hoceima,Izemmouren,17,4,4
+Al Hoceima,Ketama,13,3,4
+Al Hoceima,Louta,17,4,4
+Al Hoceima,Moulay Ahmed Cherif,17,4,4
+Al Hoceima,Nekkour,17,4,4
+Al Hoceima,Rouadi,17,4,4
+Al Hoceima,Senada,17,4,4
+Al Hoceima,Sidi Boutmim,17,4,4
+Al Hoceima,Sidi Bouzineb,13,3,4
+Al Hoceima,Taghzout,13,3,4
+Al Hoceima,Tamsaout,13,3,4
+Al Hoceima,Targuist,17,4,4
+Al Hoceima,Tifarouine,17,4,4
+Al Hoceima,Zaouiat Sidi Abdelkader,17,4,4
+Al Hoceima,Zarkat,13,3,4
+Taza,Ait Saghrouchen,10,2,2
+Taza,Ajdir,13,3,4
+Taza,Aknoul,13,3,3
+Taza,Assebbab,10,2,2
+Taza,Bab Boudir,10,2,2
+Taza,Bab Marzouka,10,2,3
+Taza,Barkine,10,2,2
+Taza,Bni Frassen,10,2,2
+Taza,Bni Ftah,10,2,3
+Taza,Bni Lent,10,2,3
+Taza,Bouchfaa,10,2,2
+Taza,Bouhlou,10,2,2
+Taza,Bourd,13,3,4
+Taza,Bouyablane,10,2,2
+Taza,Bragha,10,2,3
+Taza,El Gouzate,10,2,3
+Taza,Galdamane,10,2,3
+Taza,Ghiata Al Gharbia,10,2,2
+Taza,Guercif,10,2,2
+Taza,Gzenaya Al Janoubia,13,3,3
+Taza,Houara Oulad Raho,10,2,2
+Taza,Jbarna,10,2,3
+Taza,Kaf El Ghar,10,2,3
+Taza,Lamrija,10,2,2
+Taza,Maghraoua,10,2,2
+Taza,Matmata,10,2,2
+Taza,Mazguitam,10,2,3
+Taza,Meknassa Acharqia,10,2,3
+Taza,Meknassa Algharbia,10,2,3
+Taza,Msila,10,2,3
+Taza,Ouad Amlil,10,2,2
+Taza,Oulad Bourima,10,2,3
+Taza,Oulad Chrif,10,2,3
+Taza,Oulad Zbair,10,2,3
+Taza,Ras Laksar,10,2,2
+Taza,Rbaa El Fouki,10,2,3
+Taza,Saka,10,2,3
+Taza,Sidi Ali Bourakba,13,3,4
+Taza,Smiaa,10,2,2
+Taza,Taddart,10,2,3
+Taza,Tahla,10,2,2
+Taza,Taifa,10,2,3
+Taza,Tainaste,13,3,3
+Taza,Taza Al Oulia,10,2,3
+Taza,Taza El Jadida,10,2,3
+Taza,Tazarine,10,2,2
+Taza,Tizi Ouasli,13,3,3
+Taza,Traiba,10,2,3
+Taza,Zrarda,10,2,2
+Taounate,Ain Aicha,10,2,2
+Taounate,Ain Legdah,10,2,2
+Taounate,Ain Maatouf,10,2,2
+Taounate,Ain Mediouna,10,2,3
+Taounate,Bni Oulid,10,2,3
+Taounate,Bni Ounjel Tafraout,13,3,3
+Taounate,Bni Snous,10,2,2
+Taounate,Bouadel,10,2,3
+Taounate,Bouarouss,10,2,2
+Taounate,Bouchabel,10,2,2
+Taounate,Bouhouda,13,3,3
+Taounate,El Bibane,10,2,3
+Taounate,El Bsabsa,10,2,2
+Taounate,Fennassa Bab El Hit,13,3,3
+Taounate,Galaz,10,2,2
+Taounate,Ghafsai,10,2,3
+Taounate,Ghouazi,10,2,2
+Taounate,Jbabra,10,2,2
+Taounate,Kariat Ba Mohamed,10,2,2
+Taounate,Khlalfa,13,3,3
+Taounate,Kissane,10,2,2
+Taounate,Loulja,10,2,2
+Taounate,Messassa,10,2,2
+Taounate,Mezraoua,10,2,2
+Taounate,Mkansa,10,2,2
+Taounate,Moulay Abdelkrim,10,2,2
+Taounate,Moulay Bouchta,10,2,2
+Taounate,Ouad Jemaa,10,2,2
+Taounate,Oudka,10,2,3
+Taounate,Oulad Ayyad,10,2,2
+Taounate,Oulad Daoud,10,2,2
+Taounate,Ourtzagh,10,2,2
+Taounate,Outabouabane,10,2,2
+Taounate,Ras El Ouad,10,2,2
+Taounate,Ratba,13,3,3
+Taounate,Rghioua,10,2,3
+Taounate,Sidi El Abed,10,2,2
+Taounate,Sidi Lhaj M'hamed,10,2,3
+Taounate,Sidi M'hamed Ben Lahcen,10,2,2
+Taounate,Sidi Mokhfi,10,2,3
+Taounate,Sidi Yahya Bni Zeroual,10,2,3
+Taounate,Tabouda,10,2,3
+Taounate,Tafrant,10,2,2
+Taounate,Tamedit,13,3,3
+Taounate,Taouante,10,2,3
+Taounate,Thar Essouk,13,3,3
+Taounate,Timezgana,13,3,3
+Taounate,Tissa,10,2,2
+Taounate,Zrizer,13,3,3
+Chefchaouen,Ain Beida,13,3,3
+Chefchaouen,Amtar,13,3,4
+Chefchaouen,Asjen,13,3,2
+Chefchaouen,Bab Berred,13,3,3
+Chefchaouen,Bab Taza,13,3,3
+Chefchaouen,Bni Ahmed Cherqia,13,3,3
+Chefchaouen,Bni Ahmed Gharbia,10,2,3
+Chefchaouen,Bni Bouzra,13,3,3
+Chefchaouen,Bni Darkoul,13,3,3
+Chefchaouen,Bni Faghloum,13,3,3
+Chefchaouen,Bni Mansour,13,3,3
+Chefchaouen,Bni Rzine,13,3,4
+Chefchaouen,Bni Salah,13,3,3
+Chefchaouen,Bni Selmane,13,3,3
+Chefchaouen,Bni Smih,13,3,4
+Chefchaouen,Brikcha,13,3,2
+Chefchaouen,Chefchaouene,13,3,3
+Chefchaouen,Derdara,13,3,3
+Chefchaouen,Fifi,13,3,3
+Chefchaouen,Iounane,13,3,4
+Chefchaouen,Kalaat Bouqorra,10,2,3
+Chefchaouen,Laghdir,13,3,3
+Chefchaouen,Mansoura,13,3,3
+Chefchaouen,Moqrissat,13,3,3
+Chefchaouen,Mtioua,17,4,4
+Chefchaouen,Ouad Malha,13,3,3
+Chefchaouen,Ouaouzgane,17,4,4
+Chefchaouen,Steha,13,3,3
+Chefchaouen,Talambote,13,3,3
+Chefchaouen,Tamorot,13,3,4
+Chefchaouen,Tanaqoub,13,3,3
+Chefchaouen,Tassift,13,3,3
+Chefchaouen,Tizgane,13,3,3
+Chefchaouen,Zoumi,10,2,2
+Fahs-Anjra,Al Bahraoyine,13,3,3
+Fahs-Anjra,Anjra,13,3,3
+Fahs-Anjra,Jouamaa,13,3,3
+Fahs-Anjra,Ksar El Majaz,17,4,3
+Fahs-Anjra,Ksar Sghir,13,3,3
+Fahs-Anjra,Laaouama,13,3,3
+Fahs-Anjra,Malloussa,13,3,3
+Fahs-Anjra,Taghramt,17,4,3
+Larache,Ayacha,13,3,3
+Larache,Bni Arouss,13,3,3
+Larache,Bni Garfett,13,3,3
+Larache,Bou Jedyane,13,3,3
+Larache,Ksar Bjir,13,3,3
+Larache,Ksar El Kebir,13,3,3
+Larache,Laouamra,13,3,3
+Larache,Larache,13,3,3
+Larache,Oulad Ouchich,13,3,3
+Larache,Rissana Chamalia,13,3,3
+Larache,Rissana Janoubia,13,3,3
+Larache,Sahel,13,3,3
+Larache,Souaken,13,3,3
+Larache,Souk L'qolla,13,3,3
+Larache,Souk Tolba,13,3,3
+Larache,Tatoft,13,3,3
+Larache,Tazroute,13,3,3
+Larache,Zaaroura,13,3,3
+Larache,Zouada,13,3,3
+Tanger-Assilah,Al Manzla,13,3,3
+Tanger-Assilah,Aqouass Briech,13,3,3
+Tanger-Assilah,Assilah,13,3,3
+Tanger-Assilah,Azzinate,13,3,3
+Tanger-Assilah,Bni Makada,13,3,3
+Tanger-Assilah,Boukhalef,13,3,3
+Tanger-Assilah,Charf,13,3,3
+Tanger-Assilah,Dar Chaoui,13,3,3
+Tanger-Assilah,Lkhaloua,13,3,3
+Tanger-Assilah,Sahel Chamali,13,3,3
+Tanger-Assilah,Sidi El Yamani,13,3,3
+Tanger-Assilah,Tanger,13,3,3
+Tetouan,Ain Lahsan,13,3,3
+Tetouan,Al Hamra,13,3,3
+Tetouan,Al Kharroub,13,3,3
+Tetouan,Al Ouad,13,3,3
+Tetouan,Allyene,17,4,3
+Tetouan,Azla,17,4,3
+Tetouan,Bghaghza,13,3,3
+Tetouan,Bni Harchen,13,3,3
+Tetouan,Bni Idder,13,3,3
+Tetouan,Bni Leit,13,3,3
+Tetouan,Bni Said,13,3,3
+Tetouan,Dar Bni Karrich,13,3,3
+Tetouan,Fnidq,17,4,3
+Tetouan,Jbel Lahbib,13,3,3
+Tetouan,Mallalienne,17,4,3
+Tetouan,Martil,17,4,3
+Tetouan,M'diq,17,4,3
+Tetouan,Ouad Laou,13,3,3
+Tetouan,Oulad Ali Mansour,13,3,3
+Tetouan,Saddina,13,3,3
+Tetouan,Sahtryine,13,3,3
+Tetouan,Sebta,17,4,3
+Tetouan,Souk Kdim,13,3,3
+Tetouan,Tetouan Al Azhar,13,3,3
+Tetouan,Tetouan Sidi Al Mandri,17,4,3
+Tetouan,Zaitoune,13,3,3
+Tetouan,Zaouiat Sidi Kacem,13,3,3
+Tetouan,Zinat,13,3,3

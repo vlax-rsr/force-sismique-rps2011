@@ -1,0 +1,389 @@
+/* Feuille de style du site — mise en page sobre, lisible sur écran de bureau
+   comme sur portable. Les couleurs reprennent celles de l'interface PySide6 :
+   gris ardoise, accent bleu, rouge réservé aux champs fautifs. */
+
+:root {
+  --fond: #f4f5f7;
+  --surface: #ffffff;
+  --bordure: #d8dce2;
+  --texte: #1a1a1a;
+  --discret: #6b7178;
+  --accent: #1f4e79;
+  --accent-clair: #eaf1f8;
+  --succes: #1b6b3a;
+  --alerte: #9a5b00;
+  --erreur: #b3261e;
+  --rayon: 6px;
+  --ombre: 0 1px 3px rgba(16, 24, 40, 0.08), 0 1px 2px rgba(16, 24, 40, 0.04);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fond: #14171a;
+    --surface: #1c2024;
+    --bordure: #2f353b;
+    --texte: #e8eaed;
+    --discret: #9aa3ad;
+    --accent: #7fb3e0;
+    --accent-clair: #1f2c38;
+    --succes: #6cc48d;
+    --alerte: #e0a458;
+    --erreur: #ef8078;
+    --ombre: none;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--fond);
+  color: var(--texte);
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+a { color: var(--accent); }
+
+/* --- En-tête et pied ---------------------------------------------------- */
+
+.entete {
+  background: var(--surface);
+  border-bottom: 1px solid var(--bordure);
+}
+
+/* La page est large : le champ Commune doit afficher le nom entier d'une
+   commune, « Machouar Casablanca Machouar Casablanca (Casablanca-Anfa) ». */
+.entete-interne,
+.page,
+.pied {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.entete-interne {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: baseline;
+  justify-content: space-between;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+
+.marque { text-decoration: none; display: flex; flex-direction: column; }
+
+.marque-titre {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.45rem;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  color: var(--texte);
+}
+
+.marque-sous {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  letter-spacing: 2px;
+  font-size: 0.85rem;
+  color: var(--discret);
+}
+
+.navigation { display: flex; gap: 18px; }
+.navigation a { text-decoration: none; color: var(--discret); font-weight: 600; }
+.navigation a:hover { color: var(--accent); }
+
+.page { padding-top: 22px; padding-bottom: 34px; }
+
+.pied {
+  border-top: 1px solid var(--bordure);
+  color: var(--discret);
+  font-size: 0.82rem;
+}
+
+.pied p { margin: 14px 0; max-width: 80ch; }
+
+/* --- Titres ------------------------------------------------------------- */
+
+.titre-page { font-size: 1.5rem; margin: 0 0 12px; }
+.page h2 { font-size: 1.1rem; margin: 26px 0 8px; }
+
+.explication { color: var(--discret); max-width: 80ch; }
+
+/* --- Disposition -------------------------------------------------------- */
+
+/* La colonne de gauche porte le formulaire le plus long — l'ossature — : elle
+   gagne un peu de place. Ses enfants (fieldset, champs) doivent pouvoir
+   rétrécir en dessous de leur largeur de contenu, sans quoi la grille déborde
+   du panneau en plein écran sur grand écran. */
+.disposition {
+  display: grid;
+  grid-template-columns: minmax(340px, 440px) minmax(0, 1fr);
+  gap: 18px;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .disposition { grid-template-columns: minmax(0, 1fr); }
+}
+
+.panneau {
+  min-width: 0;
+  background: var(--surface);
+  border: 1px solid var(--bordure);
+  border-radius: var(--rayon);
+  box-shadow: var(--ombre);
+  padding: 18px;
+}
+
+.panneau-titre {
+  font-size: 1.05rem;
+  margin: 0 0 14px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--bordure);
+}
+
+/* --- Localisation -------------------------------------------------------- */
+
+.localisation { margin-bottom: 18px; }
+
+/* Le champ commune occupe toute la largeur : c'est le point d'entrée du
+   formulaire, il est donc plus grand que les autres champs. */
+.champ-recherche { grid-template-columns: 1fr; }
+.champ-recherche .champ-saisie {
+  width: 100%;
+  min-height: 46px;
+  padding: 11px 12px;
+  font-size: 1.05rem;
+}
+
+.grille-zones {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0 24px;
+  border-top: 1px solid var(--bordure);
+  padding-top: 8px;
+}
+
+.rubrique {
+  font-size: 1.05rem;
+  margin: 22px 0 4px;
+  padding-top: 14px;
+  border-top: 1px solid var(--bordure);
+}
+
+/* --- Formulaire --------------------------------------------------------- */
+
+/* Les quatre marges internes sont égales pour tous les groupbox. */
+fieldset {
+  border: 1px solid var(--bordure);
+  border-radius: var(--rayon);
+  padding: 12px;
+  margin: 0 0 14px;
+}
+
+legend { font-weight: 600; padding: 0 6px; }
+
+/* La première colonne porte le libellé et se comprime ; les colonnes de saisie
+   gardent leur largeur. */
+.champ {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  gap: 10px;
+  align-items: center;
+  padding: 3px 0;
+}
+
+.champ-label { color: var(--discret); }
+.requis { color: var(--erreur); margin-left: 2px; }
+
+.champ-saisie {
+  width: 130px;
+  max-width: 100%;
+  min-width: 0;
+  padding: 6px 8px;
+  border: 1px solid var(--bordure);
+  border-radius: 4px;
+  background: var(--surface);
+  color: var(--texte);
+  font: inherit;
+  font-variant-numeric: tabular-nums;
+}
+
+/* L'ossature porte le libellé le plus long du domaine : « Ossature en
+   charpente en acier contreventée », 42 caractères. Sa colonne est plafonnée
+   à 360px, mais le libellé garde 90px et le champ suit la colonne : plus de
+   débordement en plein écran sur PC, ni fenêtre rétrécie, ni zoom navigateur. */
+.champ-large { grid-template-columns: minmax(90px, 1fr) minmax(0, 360px) auto; }
+.champ-large .champ-saisie { width: 100%; }
+
+.champ-saisie:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: -1px;
+}
+
+.champ-saisie[readonly] { background: var(--accent-clair); color: var(--discret); }
+
+/* Za et Zv deviennent non modifiables dès qu'une commune est saisie. */
+.champ-saisie:disabled {
+  background: var(--fond);
+  color: var(--discret);
+  border-style: dashed;
+  cursor: not-allowed;
+  opacity: 0.75;
+}
+
+.champ.invalide .champ-saisie {
+  border-color: var(--erreur);
+  background: color-mix(in srgb, var(--erreur) 8%, var(--surface));
+}
+
+.champ-unite { color: var(--discret); font-size: 0.85rem; min-width: 28px; }
+
+.aide { grid-column: 1 / -1; font-size: 0.78rem; color: var(--discret); margin-top: -2px; }
+
+.grille-recherche { grid-template-columns: 1fr; }
+
+.actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px; }
+
+.bouton {
+  display: inline-block;
+  padding: 8px 14px;
+  border: 1px solid var(--bordure);
+  border-radius: 4px;
+  background: var(--surface);
+  color: var(--texte);
+  font: inherit;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.bouton:hover { border-color: var(--accent); color: var(--accent); }
+
+.bouton-primaire { background: var(--accent); border-color: var(--accent); color: #fff; }
+.bouton-primaire:hover { color: #fff; filter: brightness(1.1); }
+
+.bouton-petit { padding: 3px 9px; font-size: 0.85rem; font-weight: 500; }
+
+/* --- Bandeaux ----------------------------------------------------------- */
+
+.bandeau {
+  padding: 8px 12px;
+  border-radius: 4px;
+  border-left: 4px solid var(--discret);
+  background: var(--accent-clair);
+  margin-bottom: 12px;
+  font-size: 0.9rem;
+}
+
+.bandeau-info { border-color: var(--discret); }
+.bandeau-succes { border-color: var(--succes); }
+.bandeau-alerte { border-color: var(--alerte); }
+.bandeau-erreur { border-color: var(--erreur); color: var(--erreur); }
+
+.vide { color: var(--discret); }
+
+/* --- Tableaux de résultats ---------------------------------------------- */
+
+.tableau { margin-bottom: 18px; }
+.tableau-titre { font-size: 0.95rem; margin: 0 0 6px; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+th {
+  text-align: left;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: var(--discret);
+  border-bottom: 1px solid var(--bordure);
+  padding: 4px 8px;
+}
+
+td { padding: 5px 8px; border-bottom: 1px solid var(--bordure); vertical-align: top; }
+
+.col-valeur, .valeur { text-align: right; font-variant-numeric: tabular-nums; }
+.col-unite, .unite, .col-symbole, .symbole { text-align: center; white-space: nowrap; }
+.source { color: var(--discret); font-size: 0.8rem; }
+
+.symbole { font-weight: 700; }
+.formule { display: block; color: var(--discret); font-size: 0.78rem; font-style: italic; }
+
+tr.est-final td { background: var(--accent-clair); font-weight: 700; }
+
+/* --- Note de calcul ----------------------------------------------------- */
+
+.note { margin-top: 6px; }
+.note summary { cursor: pointer; font-weight: 600; margin-bottom: 8px; }
+
+.note-texte {
+  background: var(--fond);
+  border: 1px solid var(--bordure);
+  border-radius: 4px;
+  padding: 12px;
+  overflow-x: auto;
+  font-family: "Cascadia Mono", Consolas, "Courier New", monospace;
+  font-size: 0.78rem;
+  line-height: 1.35;
+  white-space: pre;
+}
+
+/* --- Catalogue ---------------------------------------------------------- */
+
+.recherche { margin-bottom: 12px; }
+
+.suggestions {
+  border: 1px solid var(--bordure);
+  border-radius: var(--rayon);
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+
+.suggestion {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  padding: 10px 12px;
+  border: 0;
+  border-bottom: 1px solid var(--bordure);
+  background: var(--surface);
+  color: var(--texte);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.suggestion:last-child { border-bottom: 0; }
+.suggestion:hover, .suggestion:focus, .suggestion.est-active { background: var(--accent-clair); }
+.suggestion-zones { color: var(--discret); font-variant-numeric: tabular-nums; white-space: nowrap; }
+
+/* --- Page méthode et page d'erreur -------------------------------------- */
+
+.formule {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 14px;
+  background: var(--accent-clair);
+  border-radius: var(--rayon);
+}
+
+.methode-table {
+  background: var(--surface);
+  border: 1px solid var(--bordure);
+  border-radius: var(--rayon);
+  margin-bottom: 12px;
+}
+
+.methode-table caption { text-align: left; color: var(--discret); font-size: 0.8rem; padding-bottom: 4px; }
+
+.erreur-page { text-align: center; padding: 40px 0; }
+.erreur-code { font-size: 3.5rem; font-weight: 700; color: var(--discret); margin: 0; }

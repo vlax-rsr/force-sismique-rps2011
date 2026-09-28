@@ -1,0 +1,13 @@
+# Systèmes et éditeurs
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Outillage
+node_modules/
+__pycache__/
+*.pyc
